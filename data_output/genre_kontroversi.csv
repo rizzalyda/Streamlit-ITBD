@@ -1,0 +1,1553 @@
+genre,avg_negative_ratio,game_count
+Accounting;Animation & Modeling;Audio Production;Design & Illustration;Education;Photo Editing;Software Training;Utilities;Video Production;Web Publishing,58.33,1
+Accounting;Education;Software Training;Utilities;Early Access,10.00,1
+Action,25.80,843
+Action;Adventure,28.73,363
+Action;Adventure;Casual,30.35,59
+Action;Adventure;Casual;Free to Play;Early Access,22.94,2
+Action;Adventure;Casual;Free to Play;Indie,25.35,14
+Action;Adventure;Casual;Free to Play;Indie;Early Access,21.85,5
+Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer,28.29,1
+Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;Early Access,69.15,1
+Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;RPG,16.97,1
+Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;RPG;Early Access,41.69,1
+Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;RPG;Simulation,20.44,1
+Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;Racing;RPG;Simulation;Sports;Strategy,57.04,6
+Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;Racing;Simulation;Sports;Early Access,57.14,1
+Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;Simulation;Strategy,50.00,1
+Action;Adventure;Casual;Free to Play;Indie;Massively Multiplayer;Strategy,50.82,1
+Action;Adventure;Casual;Free to Play;Indie;RPG,32.61,4
+Action;Adventure;Casual;Free to Play;Indie;RPG;Early Access,7.14,1
+Action;Adventure;Casual;Free to Play;Indie;RPG;Simulation;Sports;Strategy,27.27,1
+Action;Adventure;Casual;Free to Play;Indie;RPG;Simulation;Strategy,37.97,2
+Action;Adventure;Casual;Free to Play;Indie;RPG;Strategy,43.41,3
+Action;Adventure;Casual;Free to Play;Indie;RPG;Strategy;Early Access,56.58,1
+Action;Adventure;Casual;Free to Play;Indie;Racing;RPG;Simulation;Sports,55.56,4
+Action;Adventure;Casual;Free to Play;Indie;Racing;RPG;Simulation;Strategy,54.17,1
+Action;Adventure;Casual;Free to Play;Indie;Simulation,12.99,1
+Action;Adventure;Casual;Free to Play;Indie;Simulation;Early Access,19.21,1
+Action;Adventure;Casual;Free to Play;Indie;Simulation;Strategy,26.65,3
+Action;Adventure;Casual;Free to Play;Massively Multiplayer,30.61,2
+Action;Adventure;Casual;Free to Play;Massively Multiplayer;RPG,31.75,4
+Action;Adventure;Casual;Free to Play;Massively Multiplayer;RPG;Simulation,25.39,1
+Action;Adventure;Casual;Free to Play;Massively Multiplayer;RPG;Simulation;Strategy,45.00,1
+Action;Adventure;Casual;Free to Play;Massively Multiplayer;Racing;RPG;Simulation,40.54,1
+Action;Adventure;Casual;Free to Play;Massively Multiplayer;Simulation;Sports,25.04,1
+Action;Adventure;Casual;Free to Play;Massively Multiplayer;Simulation;Sports;Strategy,70.00,1
+Action;Adventure;Casual;Free to Play;Massively Multiplayer;Sports;Early Access,6.15,1
+Action;Adventure;Casual;Free to Play;RPG;Strategy,29.66,2
+Action;Adventure;Casual;Free to Play;Racing;Simulation;Sports,21.74,1
+Action;Adventure;Casual;Indie,32.83,475
+Action;Adventure;Casual;Indie;Early Access,28.07,56
+Action;Adventure;Casual;Indie;Massively Multiplayer,17.49,7
+Action;Adventure;Casual;Indie;Massively Multiplayer;Early Access,17.32,3
+Action;Adventure;Casual;Indie;Massively Multiplayer;RPG,11.11,1
+Action;Adventure;Casual;Indie;Massively Multiplayer;RPG;Simulation;Strategy,85.84,1
+Action;Adventure;Casual;Indie;Massively Multiplayer;RPG;Simulation;Strategy;Early Access,34.62,1
+Action;Adventure;Casual;Indie;Massively Multiplayer;RPG;Strategy;Early Access,33.71,1
+Action;Adventure;Casual;Indie;Massively Multiplayer;Racing;RPG;Simulation;Sports;Strategy,51.38,3
+Action;Adventure;Casual;Indie;Massively Multiplayer;Racing;Simulation;Sports;Early Access,14.00,1
+Action;Adventure;Casual;Indie;Massively Multiplayer;Simulation,58.25,3
+Action;Adventure;Casual;Indie;Massively Multiplayer;Simulation;Early Access,25.00,1
+Action;Adventure;Casual;Indie;Massively Multiplayer;Simulation;Strategy,29.17,1
+Action;Adventure;Casual;Indie;Massively Multiplayer;Strategy,39.83,2
+Action;Adventure;Casual;Indie;RPG,32.19,87
+Action;Adventure;Casual;Indie;RPG;Early Access,21.51,15
+Action;Adventure;Casual;Indie;RPG;Simulation,32.61,21
+Action;Adventure;Casual;Indie;RPG;Simulation;Early Access,38.06,8
+Action;Adventure;Casual;Indie;RPG;Simulation;Sports;Strategy,0.00,2
+Action;Adventure;Casual;Indie;RPG;Simulation;Strategy,47.87,24
+Action;Adventure;Casual;Indie;RPG;Simulation;Strategy;Early Access,27.67,4
+Action;Adventure;Casual;Indie;RPG;Sports,70.00,2
+Action;Adventure;Casual;Indie;RPG;Strategy,27.99,30
+Action;Adventure;Casual;Indie;RPG;Strategy;Early Access,50.20,5
+Action;Adventure;Casual;Indie;Racing,21.07,8
+Action;Adventure;Casual;Indie;Racing;Early Access,23.02,3
+Action;Adventure;Casual;Indie;Racing;RPG;Simulation;Early Access,55.33,1
+Action;Adventure;Casual;Indie;Racing;RPG;Simulation;Sports,44.63,2
+Action;Adventure;Casual;Indie;Racing;RPG;Simulation;Sports;Strategy,45.64,3
+Action;Adventure;Casual;Indie;Racing;RPG;Simulation;Sports;Strategy;Early Access,50.00,1
+Action;Adventure;Casual;Indie;Racing;RPG;Simulation;Strategy;Early Access,46.94,1
+Action;Adventure;Casual;Indie;Racing;Simulation,28.48,12
+Action;Adventure;Casual;Indie;Racing;Simulation;Early Access,16.67,1
+Action;Adventure;Casual;Indie;Racing;Simulation;Sports,34.07,8
+Action;Adventure;Casual;Indie;Racing;Simulation;Sports;Early Access,12.50,1
+Action;Adventure;Casual;Indie;Racing;Simulation;Sports;Strategy,63.89,2
+Action;Adventure;Casual;Indie;Racing;Simulation;Strategy;Early Access,12.50,1
+Action;Adventure;Casual;Indie;Racing;Sports,19.82,2
+Action;Adventure;Casual;Indie;Racing;Sports;Early Access,26.67,1
+Action;Adventure;Casual;Indie;Racing;Sports;Strategy,59.09,1
+Action;Adventure;Casual;Indie;Racing;Strategy,46.67,2
+Action;Adventure;Casual;Indie;Simulation,32.93,71
+Action;Adventure;Casual;Indie;Simulation;Early Access,41.13,10
+Action;Adventure;Casual;Indie;Simulation;Sports,35.48,9
+Action;Adventure;Casual;Indie;Simulation;Sports;Early Access,16.67,1
+Action;Adventure;Casual;Indie;Simulation;Sports;Strategy,38.98,2
+Action;Adventure;Casual;Indie;Simulation;Strategy,47.46,22
+Action;Adventure;Casual;Indie;Simulation;Strategy;Early Access,49.91,5
+Action;Adventure;Casual;Indie;Sports,52.47,4
+Action;Adventure;Casual;Indie;Sports;Early Access,31.44,2
+Action;Adventure;Casual;Indie;Sports;Strategy,0.00,1
+Action;Adventure;Casual;Indie;Strategy,32.22,77
+Action;Adventure;Casual;Indie;Strategy;Early Access,30.47,14
+Action;Adventure;Casual;Massively Multiplayer,20.48,3
+Action;Adventure;Casual;Massively Multiplayer;RPG;Early Access,38.10,1
+Action;Adventure;Casual;Massively Multiplayer;RPG;Simulation,57.14,1
+Action;Adventure;Casual;Massively Multiplayer;RPG;Strategy;Early Access,38.04,1
+Action;Adventure;Casual;RPG,34.67,10
+Action;Adventure;Casual;RPG;Early Access,33.33,1
+Action;Adventure;Casual;RPG;Simulation,25.00,1
+Action;Adventure;Casual;RPG;Simulation;Strategy;Early Access,50.00,1
+Action;Adventure;Casual;RPG;Strategy,39.66,1
+Action;Adventure;Casual;Racing,39.68,4
+Action;Adventure;Casual;Racing;RPG;Early Access,37.44,1
+Action;Adventure;Casual;Racing;RPG;Simulation;Sports;Strategy,52.63,1
+Action;Adventure;Casual;Racing;RPG;Sports;Strategy,19.07,1
+Action;Adventure;Casual;Racing;Simulation;Sports,37.00,2
+Action;Adventure;Casual;Simulation,33.29,12
+Action;Adventure;Casual;Simulation;Sports;Strategy;Early Access,0.00,1
+Action;Adventure;Casual;Simulation;Strategy,78.89,1
+Action;Adventure;Casual;Sports,14.29,1
+Action;Adventure;Casual;Sports;Strategy;Early Access,12.18,1
+Action;Adventure;Casual;Strategy,45.57,7
+Action;Adventure;Casual;Strategy;Early Access,72.22,2
+Action;Adventure;Early Access,35.24,20
+Action;Adventure;Early Access;Indie;Strategy,45.59,1
+Action;Adventure;Free to Play,35.43,5
+Action;Adventure;Free to Play;Early Access,46.15,1
+Action;Adventure;Free to Play;Indie,24.18,32
+Action;Adventure;Free to Play;Indie;Early Access,31.38,7
+Action;Adventure;Free to Play;Indie;Massively Multiplayer,46.14,2
+Action;Adventure;Free to Play;Indie;Massively Multiplayer;Early Access,41.85,1
+Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG,32.64,5
+Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG;Early Access,35.64,3
+Action;Adventure;Free to Play;Indie;Massively Multiplayer;RPG;Strategy,40.78,2
+Action;Adventure;Free to Play;Indie;Massively Multiplayer;Racing;RPG;Strategy;Early Access,49.58,1
+Action;Adventure;Free to Play;Indie;Massively Multiplayer;Strategy;Early Access,49.74,2
+Action;Adventure;Free to Play;Indie;RPG,29.81,6
+Action;Adventure;Free to Play;Indie;RPG;Early Access,31.36,2
+Action;Adventure;Free to Play;Indie;RPG;Simulation;Early Access,26.19,1
+Action;Adventure;Free to Play;Indie;RPG;Strategy,40.89,1
+Action;Adventure;Free to Play;Indie;Simulation,37.62,3
+Action;Adventure;Free to Play;Indie;Simulation;Strategy,25.76,4
+Action;Adventure;Free to Play;Indie;Strategy,5.19,1
+Action;Adventure;Free to Play;Indie;Strategy;Early Access,18.97,1
+Action;Adventure;Free to Play;Massively Multiplayer,51.10,2
+Action;Adventure;Free to Play;Massively Multiplayer;RPG,40.32,18
+Action;Adventure;Free to Play;Massively Multiplayer;RPG;Strategy,33.80,3
+Action;Adventure;Free to Play;RPG,30.91,2
+Action;Adventure;Free to Play;RPG;Early Access,14.29,1
+Action;Adventure;Free to Play;RPG;Simulation,9.67,1
+Action;Adventure;Free to Play;RPG;Simulation;Early Access,34.45,2
+Action;Adventure;Free to Play;RPG;Strategy;Early Access,29.55,1
+Action;Adventure;Free to Play;Racing;Sports;Early Access,100.00,1
+Action;Adventure;Free to Play;Simulation,42.50,2
+Action;Adventure;Free to Play;Simulation;Sports,57.38,1
+Action;Adventure;Free to Play;Sports;Strategy,32.61,1
+Action;Adventure;Indie,28.65,1229
+Action;Adventure;Indie;Early Access,29.53,132
+Action;Adventure;Indie;Massively Multiplayer,51.79,2
+Action;Adventure;Indie;Massively Multiplayer;Early Access,34.86,4
+Action;Adventure;Indie;Massively Multiplayer;RPG,26.13,13
+Action;Adventure;Indie;Massively Multiplayer;RPG;Early Access,42.37,10
+Action;Adventure;Indie;Massively Multiplayer;RPG;Simulation,37.44,1
+Action;Adventure;Indie;Massively Multiplayer;RPG;Simulation;Early Access,14.27,3
+Action;Adventure;Indie;Massively Multiplayer;RPG;Simulation;Strategy,31.41,1
+Action;Adventure;Indie;Massively Multiplayer;RPG;Simulation;Strategy;Early Access,37.88,2
+Action;Adventure;Indie;Massively Multiplayer;RPG;Strategy;Early Access,50.00,1
+Action;Adventure;Indie;Massively Multiplayer;Racing;Simulation,25.71,1
+Action;Adventure;Indie;Massively Multiplayer;Simulation,34.87,4
+Action;Adventure;Indie;Massively Multiplayer;Simulation;Early Access,44.37,7
+Action;Adventure;Indie;Massively Multiplayer;Simulation;Strategy,17.39,1
+Action;Adventure;Indie;Massively Multiplayer;Simulation;Strategy;Early Access,39.43,1
+Action;Adventure;Indie;RPG,27.64,330
+Action;Adventure;Indie;RPG;Early Access,30.20,111
+Action;Adventure;Indie;RPG;Simulation,37.41,25
+Action;Adventure;Indie;RPG;Simulation;Early Access,39.66,21
+Action;Adventure;Indie;RPG;Simulation;Sports,4.28,1
+Action;Adventure;Indie;RPG;Simulation;Sports;Strategy,40.54,1
+Action;Adventure;Indie;RPG;Simulation;Strategy,32.90,15
+Action;Adventure;Indie;RPG;Simulation;Strategy;Early Access,21.02,9
+Action;Adventure;Indie;RPG;Sports,23.53,1
+Action;Adventure;Indie;RPG;Sports;Strategy;Early Access,50.00,1
+Action;Adventure;Indie;RPG;Strategy,32.23,55
+Action;Adventure;Indie;RPG;Strategy;Early Access,45.84,22
+Action;Adventure;Indie;Racing,25.41,19
+Action;Adventure;Indie;Racing;Early Access,0.00,2
+Action;Adventure;Indie;Racing;RPG,25.00,1
+Action;Adventure;Indie;Racing;RPG;Simulation;Early Access,36.36,1
+Action;Adventure;Indie;Racing;RPG;Sports,0.00,1
+Action;Adventure;Indie;Racing;RPG;Strategy,39.53,1
+Action;Adventure;Indie;Racing;Simulation,32.81,5
+Action;Adventure;Indie;Racing;Simulation;Early Access,23.73,1
+Action;Adventure;Indie;Racing;Simulation;Sports,26.67,2
+Action;Adventure;Indie;Racing;Simulation;Sports;Early Access,35.65,2
+Action;Adventure;Indie;Racing;Sports,4.75,3
+Action;Adventure;Indie;Racing;Sports;Strategy,38.84,1
+Action;Adventure;Indie;Racing;Strategy,18.27,2
+Action;Adventure;Indie;Simulation,37.79,85
+Action;Adventure;Indie;Simulation;Early Access,33.43,38
+Action;Adventure;Indie;Simulation;Sports,14.29,3
+Action;Adventure;Indie;Simulation;Sports;Early Access,50.00,1
+Action;Adventure;Indie;Simulation;Strategy,36.61,16
+Action;Adventure;Indie;Simulation;Strategy;Early Access,35.73,10
+Action;Adventure;Indie;Sports,23.10,5
+Action;Adventure;Indie;Sports;Early Access,5.00,2
+Action;Adventure;Indie;Strategy,31.31,58
+Action;Adventure;Indie;Strategy;Early Access,26.43,13
+Action;Adventure;Massively Multiplayer,45.91,6
+Action;Adventure;Massively Multiplayer;Early Access,23.01,2
+Action;Adventure;Massively Multiplayer;RPG,39.31,3
+Action;Adventure;Massively Multiplayer;RPG;Early Access,59.64,4
+Action;Adventure;Massively Multiplayer;RPG;Simulation;Early Access,46.94,3
+Action;Adventure;Massively Multiplayer;RPG;Simulation;Strategy,31.92,3
+Action;Adventure;Massively Multiplayer;RPG;Strategy;Early Access,21.62,1
+Action;Adventure;Massively Multiplayer;Racing;Early Access,60.00,1
+Action;Adventure;Massively Multiplayer;Racing;Simulation,100.00,1
+Action;Adventure;Massively Multiplayer;Simulation,50.19,3
+Action;Adventure;Massively Multiplayer;Simulation;Early Access,69.81,2
+Action;Adventure;Massively Multiplayer;Simulation;Strategy;Early Access,14.29,1
+Action;Adventure;Massively Multiplayer;Strategy;Early Access,33.33,1
+Action;Adventure;RPG,28.01,88
+Action;Adventure;RPG;Early Access,29.03,19
+Action;Adventure;RPG;Simulation,60.00,1
+Action;Adventure;RPG;Simulation;Sports;Strategy,16.44,1
+Action;Adventure;RPG;Simulation;Strategy,17.03,3
+Action;Adventure;RPG;Sports;Early Access,44.44,1
+Action;Adventure;RPG;Strategy,30.75,8
+Action;Adventure;RPG;Strategy;Early Access,28.57,2
+Action;Adventure;Racing,42.26,8
+Action;Adventure;Racing;Early Access,30.00,2
+Action;Adventure;Racing;RPG,49.77,2
+Action;Adventure;Racing;RPG;Simulation,20.45,1
+Action;Adventure;Racing;Simulation;Early Access,72.22,2
+Action;Adventure;Racing;Simulation;Strategy,12.26,1
+Action;Adventure;Simulation,39.70,36
+Action;Adventure;Simulation;Early Access,30.17,5
+Action;Adventure;Simulation;Strategy,63.00,5
+Action;Adventure;Simulation;Strategy;Early Access,0.00,1
+Action;Adventure;Sports,30.60,4
+Action;Adventure;Strategy,25.14,24
+Action;Adventure;Strategy;Early Access,50.00,1
+Action;Casual,28.25,111
+Action;Casual;Early Access,23.73,5
+Action;Casual;Free to Play,39.16,9
+Action;Casual;Free to Play;Indie,25.39,49
+Action;Casual;Free to Play;Indie;Early Access,32.66,10
+Action;Casual;Free to Play;Indie;Massively Multiplayer,61.67,2
+Action;Casual;Free to Play;Indie;Massively Multiplayer;Early Access,14.85,1
+Action;Casual;Free to Play;Indie;Massively Multiplayer;RPG;Simulation;Strategy,44.44,1
+Action;Casual;Free to Play;Indie;Massively Multiplayer;Simulation,18.75,1
+Action;Casual;Free to Play;Indie;RPG,24.30,4
+Action;Casual;Free to Play;Indie;RPG;Simulation;Strategy,100.00,1
+Action;Casual;Free to Play;Indie;RPG;Sports;Early Access,34.85,1
+Action;Casual;Free to Play;Indie;RPG;Strategy,60.54,1
+Action;Casual;Free to Play;Indie;Racing,37.49,3
+Action;Casual;Free to Play;Indie;Racing;Simulation;Sports;Early Access,46.91,1
+Action;Casual;Free to Play;Indie;Racing;Simulation;Strategy,50.00,1
+Action;Casual;Free to Play;Indie;Racing;Sports;Early Access,30.43,1
+Action;Casual;Free to Play;Indie;Simulation,25.26,4
+Action;Casual;Free to Play;Indie;Simulation;Sports,27.88,2
+Action;Casual;Free to Play;Indie;Simulation;Sports;Early Access,22.41,1
+Action;Casual;Free to Play;Indie;Simulation;Strategy,34.31,4
+Action;Casual;Free to Play;Indie;Simulation;Strategy;Early Access,26.63,1
+Action;Casual;Free to Play;Indie;Sports,18.55,3
+Action;Casual;Free to Play;Indie;Strategy,34.51,8
+Action;Casual;Free to Play;Indie;Strategy;Early Access,33.60,1
+Action;Casual;Free to Play;Massively Multiplayer,36.15,5
+Action;Casual;Free to Play;Massively Multiplayer;Simulation;Sports,38.93,1
+Action;Casual;Free to Play;Massively Multiplayer;Simulation;Strategy,38.71,2
+Action;Casual;Free to Play;Massively Multiplayer;Sports,27.49,1
+Action;Casual;Free to Play;Massively Multiplayer;Strategy;Early Access,22.41,1
+Action;Casual;Free to Play;RPG;Simulation;Strategy,61.34,1
+Action;Casual;Free to Play;Simulation;Early Access,14.55,1
+Action;Casual;Free to Play;Simulation;Strategy,61.21,1
+Action;Casual;Free to Play;Strategy,44.00,3
+Action;Casual;Indie,25.65,1004
+Action;Casual;Indie;Early Access,17.95,94
+Action;Casual;Indie;Massively Multiplayer,35.34,10
+Action;Casual;Indie;Massively Multiplayer;Early Access,22.65,2
+Action;Casual;Indie;Massively Multiplayer;RPG;Early Access,19.09,2
+Action;Casual;Indie;Massively Multiplayer;RPG;Simulation,30.43,1
+Action;Casual;Indie;Massively Multiplayer;RPG;Simulation;Early Access,36.75,1
+Action;Casual;Indie;Massively Multiplayer;Racing,62.50,1
+Action;Casual;Indie;Massively Multiplayer;Simulation,42.98,3
+Action;Casual;Indie;Massively Multiplayer;Simulation;Early Access,10.71,2
+Action;Casual;Indie;Massively Multiplayer;Simulation;Sports,56.25,2
+Action;Casual;Indie;Massively Multiplayer;Simulation;Strategy,32.00,1
+Action;Casual;Indie;Massively Multiplayer;Simulation;Strategy;Early Access,29.82,1
+Action;Casual;Indie;Massively Multiplayer;Sports;Early Access,28.57,1
+Action;Casual;Indie;Massively Multiplayer;Sports;Strategy,10.00,1
+Action;Casual;Indie;Massively Multiplayer;Strategy,30.84,3
+Action;Casual;Indie;Massively Multiplayer;Strategy;Early Access,19.68,3
+Action;Casual;Indie;RPG,34.51,21
+Action;Casual;Indie;RPG;Early Access,36.59,5
+Action;Casual;Indie;RPG;Simulation,23.49,7
+Action;Casual;Indie;RPG;Simulation;Sports;Strategy,0.00,1
+Action;Casual;Indie;RPG;Simulation;Strategy,29.72,2
+Action;Casual;Indie;RPG;Sports,33.33,2
+Action;Casual;Indie;RPG;Sports;Early Access,2.08,1
+Action;Casual;Indie;RPG;Sports;Strategy;Early Access,9.09,1
+Action;Casual;Indie;RPG;Strategy,17.54,4
+Action;Casual;Indie;RPG;Strategy;Early Access,48.15,3
+Action;Casual;Indie;Racing,22.58,38
+Action;Casual;Indie;Racing;Early Access,13.13,4
+Action;Casual;Indie;Racing;RPG;Simulation;Sports;Early Access,100.00,1
+Action;Casual;Indie;Racing;RPG;Simulation;Strategy;Early Access,32.11,1
+Action;Casual;Indie;Racing;Simulation,32.22,12
+Action;Casual;Indie;Racing;Simulation;Sports,43.10,14
+Action;Casual;Indie;Racing;Simulation;Sports;Early Access,32.00,1
+Action;Casual;Indie;Racing;Simulation;Sports;Strategy,65.38,2
+Action;Casual;Indie;Racing;Simulation;Sports;Strategy;Early Access,100.00,1
+Action;Casual;Indie;Racing;Simulation;Strategy,70.00,2
+Action;Casual;Indie;Racing;Sports,26.06,16
+Action;Casual;Indie;Racing;Sports;Early Access,8.33,2
+Action;Casual;Indie;Racing;Sports;Strategy;Early Access,0.00,1
+Action;Casual;Indie;Racing;Strategy,6.67,1
+Action;Casual;Indie;Simulation,29.88,94
+Action;Casual;Indie;Simulation;Early Access,43.81,13
+Action;Casual;Indie;Simulation;Sports,32.37,19
+Action;Casual;Indie;Simulation;Sports;Early Access,30.42,10
+Action;Casual;Indie;Simulation;Sports;Strategy,21.88,1
+Action;Casual;Indie;Simulation;Strategy,34.80,47
+Action;Casual;Indie;Simulation;Strategy;Early Access,28.83,10
+Action;Casual;Indie;Sports,20.53,60
+Action;Casual;Indie;Sports;Early Access,21.55,15
+Action;Casual;Indie;Sports;Strategy,27.16,4
+Action;Casual;Indie;Strategy,28.68,120
+Action;Casual;Indie;Strategy;Early Access,26.26,14
+Action;Casual;Massively Multiplayer,34.54,3
+Action;Casual;Massively Multiplayer;Racing;Simulation;Sports;Early Access,31.11,1
+Action;Casual;Massively Multiplayer;Simulation;Strategy,75.00,1
+Action;Casual;Massively Multiplayer;Strategy;Early Access,0.00,1
+Action;Casual;RPG,21.01,3
+Action;Casual;RPG;Sports,100.00,1
+Action;Casual;RPG;Strategy,78.57,1
+Action;Casual;Racing,31.78,7
+Action;Casual;Racing;Simulation,50.00,1
+Action;Casual;Racing;Simulation;Sports,25.00,2
+Action;Casual;Racing;Sports,0.00,1
+Action;Casual;Simulation,36.75,32
+Action;Casual;Simulation;Early Access,42.62,5
+Action;Casual;Simulation;Sports,33.15,8
+Action;Casual;Simulation;Sports;Early Access,33.33,2
+Action;Casual;Simulation;Sports;Strategy,38.59,4
+Action;Casual;Simulation;Strategy,27.02,12
+Action;Casual;Simulation;Strategy;Early Access,50.89,2
+Action;Casual;Sports,11.98,11
+Action;Casual;Sports;Strategy,33.33,1
+Action;Casual;Strategy,38.58,14
+Action;Casual;Strategy;Early Access,43.53,4
+Action;Early Access,35.42,48
+Action;Free to Play,32.76,40
+Action;Free to Play;Early Access,40.96,11
+Action;Free to Play;Indie,24.77,105
+Action;Free to Play;Indie;Early Access,31.51,24
+Action;Free to Play;Indie;Massively Multiplayer,39.11,11
+Action;Free to Play;Indie;Massively Multiplayer;Early Access,35.52,1
+Action;Free to Play;Indie;Massively Multiplayer;RPG,37.98,4
+Action;Free to Play;Indie;Massively Multiplayer;RPG;Early Access,31.49,3
+Action;Free to Play;Indie;Massively Multiplayer;RPG;Simulation,27.83,1
+Action;Free to Play;Indie;Massively Multiplayer;RPG;Simulation;Strategy;Early Access,58.96,1
+Action;Free to Play;Indie;Massively Multiplayer;Racing;Simulation;Early Access,33.41,1
+Action;Free to Play;Indie;Massively Multiplayer;Racing;Sports;Strategy,29.03,1
+Action;Free to Play;Indie;Massively Multiplayer;Simulation,33.84,1
+Action;Free to Play;Indie;Massively Multiplayer;Sports,40.00,1
+Action;Free to Play;Indie;Massively Multiplayer;Strategy,37.25,4
+Action;Free to Play;Indie;Massively Multiplayer;Strategy;Early Access,75.40,1
+Action;Free to Play;Indie;RPG,25.91,4
+Action;Free to Play;Indie;RPG;Early Access,15.17,2
+Action;Free to Play;Indie;RPG;Strategy,29.79,3
+Action;Free to Play;Indie;RPG;Strategy;Early Access,28.61,1
+Action;Free to Play;Indie;Racing,51.52,1
+Action;Free to Play;Indie;Racing;Simulation;Sports;Early Access,52.25,1
+Action;Free to Play;Indie;Racing;Strategy,46.43,1
+Action;Free to Play;Indie;Simulation,32.51,3
+Action;Free to Play;Indie;Simulation;Early Access,24.53,1
+Action;Free to Play;Indie;Simulation;Sports,36.84,1
+Action;Free to Play;Indie;Simulation;Strategy,24.88,2
+Action;Free to Play;Indie;Sports;Early Access,32.43,2
+Action;Free to Play;Indie;Strategy,31.16,8
+Action;Free to Play;Indie;Strategy;Early Access,41.49,7
+Action;Free to Play;Massively Multiplayer,34.42,17
+Action;Free to Play;Massively Multiplayer;Early Access,31.35,3
+Action;Free to Play;Massively Multiplayer;RPG,41.29,13
+Action;Free to Play;Massively Multiplayer;RPG;Early Access,48.60,1
+Action;Free to Play;Massively Multiplayer;RPG;Simulation;Strategy,54.38,1
+Action;Free to Play;Massively Multiplayer;RPG;Strategy,45.09,4
+Action;Free to Play;Massively Multiplayer;Racing,55.41,2
+Action;Free to Play;Massively Multiplayer;Racing;Early Access,45.18,1
+Action;Free to Play;Massively Multiplayer;Racing;Sports;Strategy,22.21,1
+Action;Free to Play;Massively Multiplayer;Simulation,31.01,4
+Action;Free to Play;Massively Multiplayer;Simulation;Early Access,40.80,1
+Action;Free to Play;Massively Multiplayer;Simulation;Sports,60.71,1
+Action;Free to Play;Massively Multiplayer;Simulation;Strategy,37.75,2
+Action;Free to Play;Massively Multiplayer;Strategy,41.35,4
+Action;Free to Play;Massively Multiplayer;Strategy;Early Access,34.48,1
+Action;Free to Play;RPG,35.60,4
+Action;Free to Play;RPG;Strategy,24.56,1
+Action;Free to Play;Racing;Sports,31.43,1
+Action;Free to Play;Simulation,25.29,4
+Action;Free to Play;Simulation;Sports,13.33,1
+Action;Free to Play;Simulation;Sports;Early Access,32.35,1
+Action;Free to Play;Simulation;Strategy,33.65,2
+Action;Free to Play;Sports,25.94,4
+Action;Free to Play;Sports;Early Access,14.29,1
+Action;Free to Play;Strategy,31.94,8
+Action;Free to Play;Strategy;Early Access,34.48,3
+Action;Indie,24.28,1852
+Action;Indie;Casual,26.45,4
+Action;Indie;Early Access,21.11,280
+Action;Indie;Massively Multiplayer,34.46,14
+Action;Indie;Massively Multiplayer;Early Access,36.49,14
+Action;Indie;Massively Multiplayer;RPG,50.30,2
+Action;Indie;Massively Multiplayer;RPG;Early Access,43.12,6
+Action;Indie;Massively Multiplayer;RPG;Simulation,57.69,1
+Action;Indie;Massively Multiplayer;RPG;Simulation;Early Access,28.57,1
+Action;Indie;Massively Multiplayer;RPG;Strategy;Early Access,20.29,1
+Action;Indie;Massively Multiplayer;Racing,46.00,1
+Action;Indie;Massively Multiplayer;Racing;Simulation;Sports,33.97,1
+Action;Indie;Massively Multiplayer;Simulation,35.71,1
+Action;Indie;Massively Multiplayer;Simulation;Early Access,31.60,4
+Action;Indie;Massively Multiplayer;Simulation;Strategy,35.01,1
+Action;Indie;Massively Multiplayer;Simulation;Strategy;Early Access,23.83,2
+Action;Indie;Massively Multiplayer;Strategy,37.51,4
+Action;Indie;Massively Multiplayer;Strategy;Early Access,29.51,2
+Action;Indie;RPG,25.50,199
+Action;Indie;RPG;Early Access,22.39,47
+Action;Indie;RPG;Simulation,57.03,4
+Action;Indie;RPG;Simulation;Early Access,29.51,8
+Action;Indie;RPG;Simulation;Sports;Early Access,53.54,1
+Action;Indie;RPG;Simulation;Strategy,31.83,7
+Action;Indie;RPG;Sports,15.59,2
+Action;Indie;RPG;Strategy,25.12,38
+Action;Indie;RPG;Strategy;Early Access,25.81,8
+Action;Indie;Racing,24.69,71
+Action;Indie;Racing;Early Access,27.05,18
+Action;Indie;Racing;RPG;Simulation,6.67,1
+Action;Indie;Racing;RPG;Simulation;Strategy,33.33,1
+Action;Indie;Racing;Simulation,27.28,10
+Action;Indie;Racing;Simulation;Early Access,11.87,2
+Action;Indie;Racing;Simulation;Sports,30.22,15
+Action;Indie;Racing;Simulation;Sports;Early Access,12.16,4
+Action;Indie;Racing;Simulation;Sports;Strategy,11.11,1
+Action;Indie;Racing;Simulation;Strategy,23.33,1
+Action;Indie;Racing;Sports,20.23,20
+Action;Indie;Racing;Sports;Early Access,9.88,4
+Action;Indie;Racing;Strategy,20.52,3
+Action;Indie;Simulation,33.67,116
+Action;Indie;Simulation;Early Access,30.02,42
+Action;Indie;Simulation;Sports,26.94,22
+Action;Indie;Simulation;Sports;Early Access,23.33,14
+Action;Indie;Simulation;Sports;Strategy,46.39,4
+Action;Indie;Simulation;Strategy,31.27,36
+Action;Indie;Simulation;Strategy;Early Access,35.01,15
+Action;Indie;Sports,16.64,63
+Action;Indie;Sports;Early Access,19.02,16
+Action;Indie;Sports;Strategy,42.86,1
+Action;Indie;Sports;Strategy;Early Access,17.17,2
+Action;Indie;Strategy,29.06,220
+Action;Indie;Strategy;Early Access,25.04,47
+Action;Massively Multiplayer,47.91,6
+Action;Massively Multiplayer;Early Access,52.58,7
+Action;Massively Multiplayer;RPG,39.06,2
+Action;Massively Multiplayer;RPG;Early Access,47.26,3
+Action;Massively Multiplayer;RPG;Strategy,54.55,1
+Action;Massively Multiplayer;Racing,37.38,3
+Action;Massively Multiplayer;Racing;RPG;Simulation;Early Access,56.34,1
+Action;Massively Multiplayer;Racing;Simulation,46.04,1
+Action;Massively Multiplayer;Simulation,48.43,5
+Action;Massively Multiplayer;Simulation;Early Access,21.86,3
+Action;Massively Multiplayer;Simulation;Strategy,21.74,1
+Action;Massively Multiplayer;Strategy,45.45,1
+Action;Massively Multiplayer;Strategy;Early Access,40.00,1
+Action;RPG,25.46,98
+Action;RPG;Early Access,44.34,7
+Action;RPG;Indie,22.36,3
+Action;RPG;Simulation,25.90,6
+Action;RPG;Simulation;Early Access,50.00,1
+Action;RPG;Simulation;Strategy,21.61,2
+Action;RPG;Sports;Early Access,20.00,1
+Action;RPG;Strategy,28.77,11
+Action;RPG;Strategy;Early Access,44.00,1
+Action;Racing,34.90,40
+Action;Racing;Early Access,29.13,5
+Action;Racing;RPG,20.13,1
+Action;Racing;Simulation,58.58,6
+Action;Racing;Simulation;Sports,45.14,8
+Action;Racing;Sports,26.62,6
+Action;Racing;Sports;Early Access,8.52,1
+Action;Racing;Strategy,28.57,1
+Action;Simulation,44.35,65
+Action;Simulation;Early Access,37.26,12
+Action;Simulation;Sports,23.91,10
+Action;Simulation;Sports;Strategy,38.32,2
+Action;Simulation;Strategy,41.38,29
+Action;Simulation;Strategy;Early Access,41.56,4
+Action;Sports,46.49,17
+Action;Sports;Early Access,44.16,3
+Action;Sports;Strategy,12.50,1
+Action;Sports;Strategy;Early Access,33.33,1
+Action;Strategy,29.15,76
+Action;Strategy;Casual,16.51,1
+Action;Strategy;Early Access,30.94,8
+Action;Strategy;Indie,53.08,2
+Action;Strategy;Indie;Sports,22.16,1
+Adventure,23.73,535
+Adventure;Casual,22.67,506
+Adventure;Casual;Early Access,55.90,4
+Adventure;Casual;Free to Play,30.66,18
+Adventure;Casual;Free to Play;Early Access,43.24,1
+Adventure;Casual;Free to Play;Indie,20.15,49
+Adventure;Casual;Free to Play;Indie;Early Access,11.71,1
+Adventure;Casual;Free to Play;Indie;Massively Multiplayer;RPG;Strategy,25.09,4
+Adventure;Casual;Free to Play;Indie;Massively Multiplayer;Simulation,41.67,1
+Adventure;Casual;Free to Play;Indie;RPG,18.95,6
+Adventure;Casual;Free to Play;Indie;RPG;Early Access,12.50,2
+Adventure;Casual;Free to Play;Indie;RPG;Simulation,15.92,4
+Adventure;Casual;Free to Play;Indie;RPG;Simulation;Strategy,17.10,5
+Adventure;Casual;Free to Play;Indie;RPG;Simulation;Strategy;Early Access,9.23,1
+Adventure;Casual;Free to Play;Indie;RPG;Strategy,21.91,2
+Adventure;Casual;Free to Play;Indie;Simulation,23.03,8
+Adventure;Casual;Free to Play;Indie;Simulation;Sports;Strategy,70.87,1
+Adventure;Casual;Free to Play;Indie;Strategy,23.03,3
+Adventure;Casual;Free to Play;Indie;Strategy;Early Access,22.22,1
+Adventure;Casual;Free to Play;Massively Multiplayer;RPG,38.78,4
+Adventure;Casual;Free to Play;Massively Multiplayer;RPG;Simulation;Sports;Early Access,33.55,1
+Adventure;Casual;Free to Play;Massively Multiplayer;Simulation;Sports;Early Access,11.40,1
+Adventure;Casual;Free to Play;Massively Multiplayer;Strategy,19.92,1
+Adventure;Casual;Free to Play;RPG,23.23,3
+Adventure;Casual;Free to Play;Simulation,13.67,4
+Adventure;Casual;Free to Play;Sports,14.29,1
+Adventure;Casual;Free to Play;Strategy,38.37,1
+Adventure;Casual;Indie,26.22,801
+Adventure;Casual;Indie;Animation & Modeling;Education;Video Production,11.11,1
+Adventure;Casual;Indie;Early Access,28.78,25
+Adventure;Casual;Indie;Massively Multiplayer,50.00,1
+Adventure;Casual;Indie;Massively Multiplayer;RPG,66.67,1
+Adventure;Casual;Indie;Massively Multiplayer;RPG;Simulation;Sports;Strategy,40.00,1
+Adventure;Casual;Indie;Massively Multiplayer;RPG;Strategy,66.67,1
+Adventure;Casual;Indie;Massively Multiplayer;RPG;Strategy;Early Access,62.50,1
+Adventure;Casual;Indie;Massively Multiplayer;Simulation,61.07,2
+Adventure;Casual;Indie;Massively Multiplayer;Strategy;Early Access,36.79,2
+Adventure;Casual;Indie;RPG,26.42,147
+Adventure;Casual;Indie;RPG;Early Access,22.61,10
+Adventure;Casual;Indie;RPG;Simulation,24.21,30
+Adventure;Casual;Indie;RPG;Simulation;Early Access,28.97,10
+Adventure;Casual;Indie;RPG;Simulation;Sports,31.31,3
+Adventure;Casual;Indie;RPG;Simulation;Sports;Strategy,62.50,2
+Adventure;Casual;Indie;RPG;Simulation;Strategy,31.46,39
+Adventure;Casual;Indie;RPG;Simulation;Strategy;Early Access,29.47,1
+Adventure;Casual;Indie;RPG;Sports,31.43,1
+Adventure;Casual;Indie;RPG;Strategy,29.14,62
+Adventure;Casual;Indie;RPG;Strategy;Early Access,19.30,8
+Adventure;Casual;Indie;Racing,36.11,11
+Adventure;Casual;Indie;Racing;Early Access,100.00,1
+Adventure;Casual;Indie;Racing;RPG;Simulation;Sports;Strategy,50.00,1
+Adventure;Casual;Indie;Racing;RPG;Simulation;Strategy,37.21,1
+Adventure;Casual;Indie;Racing;Simulation,24.08,2
+Adventure;Casual;Indie;Racing;Simulation;Early Access,100.00,1
+Adventure;Casual;Indie;Racing;Simulation;Sports,64.65,6
+Adventure;Casual;Indie;Racing;Simulation;Sports;Early Access,62.50,1
+Adventure;Casual;Indie;Racing;Simulation;Sports;Strategy,9.09,1
+Adventure;Casual;Indie;Racing;Strategy,80.00,1
+Adventure;Casual;Indie;Simulation,35.87,146
+Adventure;Casual;Indie;Simulation;Accounting,50.00,1
+Adventure;Casual;Indie;Simulation;Early Access,28.84,11
+Adventure;Casual;Indie;Simulation;Sports,72.77,8
+Adventure;Casual;Indie;Simulation;Sports;Strategy,31.82,8
+Adventure;Casual;Indie;Simulation;Strategy,47.25,26
+Adventure;Casual;Indie;Simulation;Strategy;Early Access,30.92,5
+Adventure;Casual;Indie;Sports,37.36,5
+Adventure;Casual;Indie;Sports;Early Access,50.00,1
+Adventure;Casual;Indie;Sports;Strategy,29.55,4
+Adventure;Casual;Indie;Strategy,30.31,55
+Adventure;Casual;Indie;Strategy;Early Access,19.60,7
+Adventure;Casual;Massively Multiplayer;Simulation,21.83,2
+Adventure;Casual;RPG,26.15,12
+Adventure;Casual;RPG;Early Access,28.57,1
+Adventure;Casual;RPG;Simulation,26.33,6
+Adventure;Casual;RPG;Simulation;Strategy,18.36,3
+Adventure;Casual;RPG;Strategy,38.73,5
+Adventure;Casual;RPG;Strategy;Early Access,0.00,1
+Adventure;Casual;Racing,38.35,2
+Adventure;Casual;Simulation,27.54,43
+Adventure;Casual;Simulation;Design & Illustration,0.00,1
+Adventure;Casual;Simulation;Early Access,6.34,1
+Adventure;Casual;Simulation;Strategy,19.59,26
+Adventure;Casual;Sports,100.00,1
+Adventure;Casual;Strategy,26.67,22
+Adventure;Casual;Strategy;Early Access,28.66,1
+Adventure;Early Access,38.89,10
+Adventure;Free to Play,20.78,24
+Adventure;Free to Play;Indie,19.91,59
+Adventure;Free to Play;Indie;Early Access,42.81,3
+Adventure;Free to Play;Indie;Massively Multiplayer,39.25,1
+Adventure;Free to Play;Indie;Massively Multiplayer;RPG,32.77,3
+Adventure;Free to Play;Indie;Massively Multiplayer;RPG;Early Access,27.52,2
+Adventure;Free to Play;Indie;Massively Multiplayer;RPG;Strategy,42.00,3
+Adventure;Free to Play;Indie;RPG,19.92,23
+Adventure;Free to Play;Indie;RPG;Early Access,34.77,3
+Adventure;Free to Play;Indie;RPG;Simulation;Strategy,44.44,1
+Adventure;Free to Play;Indie;RPG;Strategy,21.76,5
+Adventure;Free to Play;Indie;Simulation,19.10,2
+Adventure;Free to Play;Indie;Strategy;Early Access,19.05,1
+Adventure;Free to Play;Massively Multiplayer,60.59,1
+Adventure;Free to Play;Massively Multiplayer;RPG,38.49,8
+Adventure;Free to Play;Massively Multiplayer;RPG;Simulation;Early Access,52.30,1
+Adventure;Free to Play;Massively Multiplayer;RPG;Strategy,30.74,2
+Adventure;Free to Play;Massively Multiplayer;Simulation;Early Access,75.76,1
+Adventure;Free to Play;RPG,31.65,4
+Adventure;Free to Play;RPG;Simulation;Strategy;Early Access,46.67,1
+Adventure;Free to Play;RPG;Strategy,31.28,5
+Adventure;Free to Play;RPG;Strategy;Early Access,51.76,1
+Adventure;Free to Play;Simulation,26.47,7
+Adventure;Free to Play;Simulation;Strategy,32.26,1
+Adventure;Free to Play;Sports,30.77,1
+Adventure;Indie,23.93,1170
+Adventure;Indie;Casual,31.16,1
+Adventure;Indie;Early Access,26.19,55
+Adventure;Indie;Massively Multiplayer,35.09,3
+Adventure;Indie;Massively Multiplayer;RPG,29.02,1
+Adventure;Indie;Massively Multiplayer;RPG;Early Access,50.00,1
+Adventure;Indie;Massively Multiplayer;RPG;Simulation;Early Access,92.31,1
+Adventure;Indie;Massively Multiplayer;RPG;Simulation;Strategy;Early Access,32.62,1
+Adventure;Indie;Massively Multiplayer;RPG;Strategy,27.71,3
+Adventure;Indie;Massively Multiplayer;Simulation;Early Access,35.48,1
+Adventure;Indie;RPG,25.50,449
+Adventure;Indie;RPG;Early Access,32.06,25
+Adventure;Indie;RPG;Simulation,34.47,21
+Adventure;Indie;RPG;Simulation;Early Access,19.65,14
+Adventure;Indie;RPG;Simulation;Strategy,33.39,21
+Adventure;Indie;RPG;Simulation;Strategy;Early Access,57.86,4
+Adventure;Indie;RPG;Strategy,24.76,88
+Adventure;Indie;RPG;Strategy;Early Access,17.90,14
+Adventure;Indie;Racing,7.93,4
+Adventure;Indie;Racing;Early Access,22.22,2
+Adventure;Indie;Racing;RPG;Simulation;Early Access,10.00,2
+Adventure;Indie;Racing;Simulation;Early Access,50.00,1
+Adventure;Indie;Racing;Simulation;Sports,8.45,1
+Adventure;Indie;Racing;Strategy;Early Access,0.00,1
+Adventure;Indie;Simulation,30.91,124
+Adventure;Indie;Simulation;Early Access,32.82,10
+Adventure;Indie;Simulation;Sports,60.00,1
+Adventure;Indie;Simulation;Strategy,29.45,21
+Adventure;Indie;Simulation;Strategy;Early Access,27.09,6
+Adventure;Indie;Sports,14.19,2
+Adventure;Indie;Strategy,27.76,77
+Adventure;Indie;Strategy;Early Access,17.78,14
+Adventure;Massively Multiplayer,31.78,1
+Adventure;Massively Multiplayer;RPG,51.26,2
+Adventure;Massively Multiplayer;RPG;Simulation;Early Access,60.80,1
+Adventure;Massively Multiplayer;RPG;Strategy,27.87,1
+Adventure;Massively Multiplayer;Strategy;Early Access,50.00,1
+Adventure;RPG,22.57,70
+Adventure;RPG;Early Access,10.63,2
+Adventure;RPG;Simulation,23.89,5
+Adventure;RPG;Simulation;Strategy,29.06,5
+Adventure;RPG;Strategy,20.72,26
+Adventure;RPG;Strategy;Early Access,54.12,2
+Adventure;Racing,60.12,3
+Adventure;Racing;Simulation;Sports,37.72,1
+Adventure;Racing;Sports,66.67,1
+Adventure;Simulation,31.11,30
+Adventure;Simulation;Early Access,50.73,7
+Adventure;Simulation;Sports,53.18,4
+Adventure;Simulation;Strategy,35.10,10
+Adventure;Sports,55.42,2
+Adventure;Strategy,26.07,22
+Adventure;Strategy;Early Access,9.09,1
+Animation & Modeling,19.31,3
+Animation & Modeling;Audio Production;Design & Illustration;Education;Early Access,0.00,1
+Animation & Modeling;Audio Production;Design & Illustration;Utilities;Video Production;Web Publishing,7.34,1
+Animation & Modeling;Audio Production;Software Training;Utilities;Video Production,100.00,1
+Animation & Modeling;Audio Production;Utilities,42.86,1
+Animation & Modeling;Design & Illustration,21.31,2
+Animation & Modeling;Design & Illustration;Education,31.11,1
+Animation & Modeling;Design & Illustration;Education;Photo Editing;Software Training;Utilities;Video Production,48.00,1
+Animation & Modeling;Design & Illustration;Education;Software Training;Utilities,30.53,3
+Animation & Modeling;Design & Illustration;Education;Software Training;Utilities;Early Access,44.88,2
+Animation & Modeling;Design & Illustration;Education;Software Training;Utilities;Game Development,26.75,3
+Animation & Modeling;Design & Illustration;Education;Software Training;Utilities;Video Production;Web Publishing;Game Development,18.60,1
+Animation & Modeling;Design & Illustration;Education;Software Training;Utilities;Web Publishing,10.71,1
+Animation & Modeling;Design & Illustration;Education;Software Training;Utilities;Web Publishing;Game Development,19.64,3
+Animation & Modeling;Design & Illustration;Education;Utilities;Early Access,34.48,1
+Animation & Modeling;Design & Illustration;Education;Utilities;Web Publishing;Game Development,42.86,1
+Animation & Modeling;Design & Illustration;Education;Video Production;Game Development;Early Access,7.14,1
+Animation & Modeling;Design & Illustration;Game Development,11.18,2
+Animation & Modeling;Design & Illustration;Game Development;Early Access,20.00,1
+Animation & Modeling;Design & Illustration;Photo Editing,24.20,1
+Animation & Modeling;Design & Illustration;Photo Editing;Software Training;Utilities;Video Production,32.14,1
+Animation & Modeling;Design & Illustration;Photo Editing;Utilities,31.65,1
+Animation & Modeling;Design & Illustration;Photo Editing;Utilities;Web Publishing;Game Development,53.61,1
+Animation & Modeling;Design & Illustration;Utilities,22.26,7
+Animation & Modeling;Design & Illustration;Utilities;Early Access,40.97,5
+Animation & Modeling;Design & Illustration;Utilities;Video Production,23.08,1
+Animation & Modeling;Design & Illustration;Utilities;Video Production;Early Access,15.79,1
+Animation & Modeling;Design & Illustration;Video Production,6.25,1
+Animation & Modeling;Design & Illustration;Web Publishing,17.03,2
+Animation & Modeling;Early Access,28.57,1
+Animation & Modeling;Education;Utilities;Web Publishing,10.33,1
+Animation & Modeling;Software Training;Utilities;Early Access,30.86,1
+Animation & Modeling;Utilities,16.94,4
+Animation & Modeling;Utilities;Early Access,8.37,4
+Animation & Modeling;Utilities;Video Production,52.78,2
+Animation & Modeling;Video Production,11.91,2
+Audio Production,46.00,4
+Audio Production;Design & Illustration;Utilities;Video Production;Web Publishing,20.00,1
+Audio Production;Early Access,39.47,1
+Audio Production;Education;Software Training;Video Production;Web Publishing,56.38,1
+Audio Production;Utilities,46.70,8
+Audio Production;Utilities;Early Access,8.33,1
+Casual,31.03,560
+Casual;Animation & Modeling;Design & Illustration,0.00,1
+Casual;Animation & Modeling;Video Production,35.71,1
+Casual;Early Access,27.67,19
+Casual;Free to Play,26.58,28
+Casual;Free to Play;Early Access,33.15,2
+Casual;Free to Play;Indie,20.11,89
+Casual;Free to Play;Indie;Accounting;Animation & Modeling;Audio Production;Design & Illustration;Education;Photo Editing;Software Training;Utilities;Video Production;Web Publishing,26.09,1
+Casual;Free to Play;Indie;Early Access,23.07,7
+Casual;Free to Play;Indie;Massively Multiplayer;RPG,21.64,1
+Casual;Free to Play;Indie;Massively Multiplayer;RPG;Early Access,40.31,1
+Casual;Free to Play;Indie;Massively Multiplayer;RPG;Simulation,43.12,1
+Casual;Free to Play;Indie;Massively Multiplayer;RPG;Strategy,36.23,1
+Casual;Free to Play;Indie;Massively Multiplayer;Simulation,32.00,1
+Casual;Free to Play;Indie;Massively Multiplayer;Simulation;Early Access,9.12,1
+Casual;Free to Play;Indie;Massively Multiplayer;Simulation;Sports;Strategy,29.41,1
+Casual;Free to Play;Indie;Massively Multiplayer;Strategy,28.77,3
+Casual;Free to Play;Indie;RPG,19.15,8
+Casual;Free to Play;Indie;RPG;Simulation,22.69,3
+Casual;Free to Play;Indie;RPG;Simulation;Strategy,45.85,5
+Casual;Free to Play;Indie;RPG;Simulation;Strategy;Early Access,29.29,1
+Casual;Free to Play;Indie;RPG;Strategy,21.31,1
+Casual;Free to Play;Indie;RPG;Strategy;Accounting;Animation & Modeling;Audio Production;Design & Illustration;Education;Photo Editing;Software Training;Utilities;Video Production;Web Publishing;Game Development,63.64,1
+Casual;Free to Play;Indie;RPG;Strategy;Early Access,32.15,2
+Casual;Free to Play;Indie;Racing,51.06,2
+Casual;Free to Play;Indie;Racing;Early Access,42.86,1
+Casual;Free to Play;Indie;Racing;Simulation,41.88,1
+Casual;Free to Play;Indie;Racing;Simulation;Early Access,17.75,1
+Casual;Free to Play;Indie;Racing;Sports,62.50,1
+Casual;Free to Play;Indie;Racing;Strategy,17.39,1
+Casual;Free to Play;Indie;Simulation,28.80,30
+Casual;Free to Play;Indie;Simulation;Early Access,33.57,3
+Casual;Free to Play;Indie;Simulation;Sports,41.09,3
+Casual;Free to Play;Indie;Simulation;Sports;Early Access,50.00,1
+Casual;Free to Play;Indie;Simulation;Sports;Strategy,36.26,1
+Casual;Free to Play;Indie;Simulation;Strategy,34.70,9
+Casual;Free to Play;Indie;Simulation;Strategy;Early Access,21.21,2
+Casual;Free to Play;Indie;Sports,32.11,2
+Casual;Free to Play;Indie;Sports;Early Access,27.59,1
+Casual;Free to Play;Indie;Strategy,26.47,27
+Casual;Free to Play;Indie;Strategy;Early Access,56.49,2
+Casual;Free to Play;Massively Multiplayer,47.55,2
+Casual;Free to Play;Massively Multiplayer;Early Access,38.36,1
+Casual;Free to Play;Massively Multiplayer;Education,51.43,1
+Casual;Free to Play;Massively Multiplayer;RPG,32.04,1
+Casual;Free to Play;Massively Multiplayer;RPG;Early Access,15.79,1
+Casual;Free to Play;Massively Multiplayer;RPG;Simulation;Strategy,30.50,1
+Casual;Free to Play;Massively Multiplayer;RPG;Sports;Early Access,32.14,1
+Casual;Free to Play;Massively Multiplayer;Simulation,26.78,3
+Casual;Free to Play;Massively Multiplayer;Simulation;Sports,30.43,1
+Casual;Free to Play;Massively Multiplayer;Simulation;Sports;Strategy,32.82,1
+Casual;Free to Play;Massively Multiplayer;Simulation;Strategy,51.52,1
+Casual;Free to Play;Massively Multiplayer;Sports;Strategy,52.05,1
+Casual;Free to Play;Massively Multiplayer;Strategy,23.02,3
+Casual;Free to Play;RPG,17.63,5
+Casual;Free to Play;RPG;Simulation,20.51,1
+Casual;Free to Play;RPG;Simulation;Strategy,39.44,1
+Casual;Free to Play;Simulation,36.32,27
+Casual;Free to Play;Simulation;Animation & Modeling;Early Access,4.02,1
+Casual;Free to Play;Simulation;Early Access,16.33,2
+Casual;Free to Play;Simulation;Sports,15.38,1
+Casual;Free to Play;Simulation;Strategy,60.83,2
+Casual;Free to Play;Sports,27.39,3
+Casual;Free to Play;Sports;Strategy,27.27,1
+Casual;Free to Play;Strategy,32.72,7
+Casual;Free to Play;Strategy;Early Access,19.15,3
+Casual;Indie,26.12,1482
+Casual;Indie;Accounting;Design & Illustration;Software Training;Web Publishing;Documentary;Tutorial,50.00,1
+Casual;Indie;Audio Production;Early Access,2.33,1
+Casual;Indie;Early Access,30.03,50
+Casual;Indie;Education,25.00,1
+Casual;Indie;Massively Multiplayer,18.18,1
+Casual;Indie;Massively Multiplayer;Early Access,58.10,3
+Casual;Indie;Massively Multiplayer;RPG;Early Access,12.50,2
+Casual;Indie;Massively Multiplayer;Racing,42.27,2
+Casual;Indie;Massively Multiplayer;Simulation;Early Access,42.74,1
+Casual;Indie;Massively Multiplayer;Simulation;Sports;Early Access,46.15,1
+Casual;Indie;Massively Multiplayer;Simulation;Strategy,53.33,1
+Casual;Indie;Massively Multiplayer;Sports;Strategy,88.89,1
+Casual;Indie;Massively Multiplayer;Strategy,41.74,5
+Casual;Indie;Massively Multiplayer;Strategy;Early Access,25.00,1
+Casual;Indie;RPG,26.59,60
+Casual;Indie;RPG;Early Access,32.78,4
+Casual;Indie;RPG;Simulation,25.77,37
+Casual;Indie;RPG;Simulation;Early Access,15.43,3
+Casual;Indie;RPG;Simulation;Sports;Strategy,18.07,3
+Casual;Indie;RPG;Simulation;Strategy,26.99,22
+Casual;Indie;RPG;Simulation;Strategy;Early Access,41.30,6
+Casual;Indie;RPG;Strategy,27.36,23
+Casual;Indie;RPG;Strategy;Early Access,23.27,5
+Casual;Indie;Racing,32.39,59
+Casual;Indie;Racing;Early Access,10.31,2
+Casual;Indie;Racing;RPG;Simulation;Sports,26.53,1
+Casual;Indie;Racing;Simulation,42.84,10
+Casual;Indie;Racing;Simulation;Early Access,8.62,2
+Casual;Indie;Racing;Simulation;Sports,39.86,9
+Casual;Indie;Racing;Simulation;Sports;Early Access,26.97,3
+Casual;Indie;Racing;Sports,51.48,10
+Casual;Indie;Racing;Sports;Early Access,27.99,3
+Casual;Indie;Racing;Strategy,50.00,1
+Casual;Indie;Racing;Strategy;Early Access,0.00,1
+Casual;Indie;Simulation,29.23,377
+Casual;Indie;Simulation;Animation & Modeling;Design & Illustration,10.00,1
+Casual;Indie;Simulation;Audio Production,18.18,1
+Casual;Indie;Simulation;Early Access,27.86,57
+Casual;Indie;Simulation;Education,16.67,1
+Casual;Indie;Simulation;Sports,45.68,28
+Casual;Indie;Simulation;Sports;Early Access,36.83,17
+Casual;Indie;Simulation;Sports;Strategy,34.18,21
+Casual;Indie;Simulation;Strategy,36.81,183
+Casual;Indie;Simulation;Strategy;Early Access,28.54,23
+Casual;Indie;Sports,32.42,45
+Casual;Indie;Sports;Early Access,28.43,15
+Casual;Indie;Sports;Strategy,51.57,9
+Casual;Indie;Sports;Strategy;Early Access,11.11,2
+Casual;Indie;Strategy,26.61,445
+Casual;Indie;Strategy;Early Access,19.91,21
+Casual;Indie;Utilities,0.00,1
+Casual;Massively Multiplayer;Early Access,38.46,1
+Casual;Massively Multiplayer;Simulation,100.00,1
+Casual;Massively Multiplayer;Simulation;Sports;Early Access,50.00,1
+Casual;Massively Multiplayer;Simulation;Strategy,60.81,3
+Casual;RPG,36.51,12
+Casual;RPG;Early Access,57.14,2
+Casual;RPG;Simulation,45.47,9
+Casual;RPG;Simulation;Strategy,43.24,4
+Casual;RPG;Strategy,0.00,2
+Casual;RPG;Strategy;Early Access,14.29,1
+Casual;Racing,21.88,11
+Casual;Racing;Early Access,50.00,1
+Casual;Racing;Simulation,50.00,3
+Casual;Racing;Simulation;Early Access,60.17,1
+Casual;Racing;Simulation;Sports,52.78,2
+Casual;Racing;Sports,41.30,3
+Casual;Simulation,37.51,128
+Casual;Simulation;Animation & Modeling;Design & Illustration;Utilities,33.33,1
+Casual;Simulation;Early Access,36.10,14
+Casual;Simulation;Sports,44.67,25
+Casual;Simulation;Sports;Early Access,61.11,2
+Casual;Simulation;Sports;Strategy,29.69,9
+Casual;Simulation;Strategy,26.93,45
+Casual;Simulation;Strategy;Early Access,69.75,3
+Casual;Sports,31.65,21
+Casual;Strategy,28.14,100
+Casual;Strategy;Early Access,44.86,4
+Casual;Strategy;Indie,55.56,1
+Design & Illustration,11.74,5
+Design & Illustration;Early Access,33.95,4
+Design & Illustration;Education;Utilities,22.32,3
+Design & Illustration;Education;Utilities;Early Access,0.00,1
+Design & Illustration;Photo Editing,17.61,3
+Design & Illustration;Utilities,36.44,5
+Design & Illustration;Utilities;Game Development,11.90,1
+Design & Illustration;Utilities;Video Production,50.00,1
+Design & Illustration;Utilities;Web Publishing,14.14,1
+Design & Illustration;Utilities;Web Publishing;Early Access,28.57,1
+Design & Illustration;Web Publishing,9.45,3
+Early Access,36.06,9
+Education,29.95,8
+Education;Early Access,36.84,1
+Education;Software Training,9.47,2
+Education;Software Training;Utilities,19.51,1
+Education;Software Training;Utilities;Video Production,53.85,1
+Education;Software Training;Utilities;Web Publishing,32.35,1
+Free to Play,34.09,32
+Free to Play;Design & Illustration,5.71,2
+Free to Play;Early Access,5.06,1
+Free to Play;Indie,23.39,44
+Free to Play;Indie;Animation & Modeling;Design & Illustration;Education;Software Training;Utilities;Web Publishing;Early Access,9.62,1
+Free to Play;Indie;Early Access,26.00,4
+Free to Play;Indie;Massively Multiplayer,36.57,2
+Free to Play;Indie;Massively Multiplayer;Early Access,28.82,2
+Free to Play;Indie;Massively Multiplayer;RPG,39.49,6
+Free to Play;Indie;Massively Multiplayer;RPG;Simulation;Strategy,45.37,1
+Free to Play;Indie;Massively Multiplayer;RPG;Simulation;Strategy;Early Access,36.64,1
+Free to Play;Indie;Massively Multiplayer;RPG;Strategy,39.83,6
+Free to Play;Indie;Massively Multiplayer;RPG;Strategy;Early Access,37.62,2
+Free to Play;Indie;Massively Multiplayer;Racing;RPG;Strategy,56.21,1
+Free to Play;Indie;Massively Multiplayer;Simulation,28.08,1
+Free to Play;Indie;Massively Multiplayer;Simulation;Sports;Strategy,34.98,1
+Free to Play;Indie;Massively Multiplayer;Strategy,37.14,12
+Free to Play;Indie;Massively Multiplayer;Strategy;Early Access,35.71,2
+Free to Play;Indie;RPG,23.63,11
+Free to Play;Indie;RPG;Early Access,33.33,1
+Free to Play;Indie;RPG;Simulation,27.41,2
+Free to Play;Indie;RPG;Simulation;Strategy;Early Access,40.35,1
+Free to Play;Indie;RPG;Strategy,24.80,8
+Free to Play;Indie;RPG;Strategy;Early Access,28.79,1
+Free to Play;Indie;Racing,11.48,2
+Free to Play;Indie;Racing;Simulation,52.08,3
+Free to Play;Indie;Racing;Simulation;Sports,53.98,1
+Free to Play;Indie;Racing;Simulation;Sports;Early Access,55.74,1
+Free to Play;Indie;Racing;Sports,46.93,2
+Free to Play;Indie;Racing;Strategy,30.49,1
+Free to Play;Indie;Simulation,30.44,18
+Free to Play;Indie;Simulation;Early Access,20.68,3
+Free to Play;Indie;Simulation;Sports,34.16,1
+Free to Play;Indie;Simulation;Strategy,24.08,7
+Free to Play;Indie;Simulation;Strategy;Early Access,17.32,1
+Free to Play;Indie;Sports,21.07,1
+Free to Play;Indie;Sports;Early Access,26.25,1
+Free to Play;Indie;Sports;Strategy,31.03,2
+Free to Play;Indie;Strategy,30.97,34
+Free to Play;Indie;Strategy;Early Access,26.83,7
+Free to Play;Massively Multiplayer,47.73,5
+Free to Play;Massively Multiplayer;Early Access,28.12,2
+Free to Play;Massively Multiplayer;RPG,39.43,31
+Free to Play;Massively Multiplayer;RPG;Early Access,54.69,1
+Free to Play;Massively Multiplayer;RPG;Simulation;Strategy,32.57,1
+Free to Play;Massively Multiplayer;RPG;Strategy,51.62,8
+Free to Play;Massively Multiplayer;RPG;Strategy;Early Access,36.03,2
+Free to Play;Massively Multiplayer;Racing,45.22,1
+Free to Play;Massively Multiplayer;Simulation,49.76,4
+Free to Play;Massively Multiplayer;Simulation;Sports,23.93,1
+Free to Play;Massively Multiplayer;Simulation;Strategy,43.41,4
+Free to Play;Massively Multiplayer;Sports,36.99,1
+Free to Play;Massively Multiplayer;Strategy,42.31,12
+Free to Play;Massively Multiplayer;Strategy;Early Access,38.52,4
+Free to Play;RPG,34.61,7
+Free to Play;RPG;Early Access,25.11,2
+Free to Play;RPG;Simulation,14.25,1
+Free to Play;RPG;Strategy,34.02,6
+Free to Play;RPG;Strategy;Early Access,25.30,2
+Free to Play;Racing;Simulation;Early Access,33.76,1
+Free to Play;Racing;Simulation;Sports,41.26,2
+Free to Play;Racing;Simulation;Sports;Early Access,48.99,1
+Free to Play;Simulation,27.24,21
+Free to Play;Simulation;Animation & Modeling;Design & Illustration;Game Development,50.00,1
+Free to Play;Simulation;Early Access,26.71,3
+Free to Play;Simulation;Sports,17.14,4
+Free to Play;Simulation;Strategy,35.69,4
+Free to Play;Sports,31.53,1
+Free to Play;Sports;Strategy,25.86,1
+Free to Play;Strategy,38.13,24
+Free to Play;Strategy;Early Access,40.35,7
+Gore,22.88,1
+Gore;Action,60.74,3
+Gore;Action;Adventure;Casual;Indie,27.27,1
+Gore;Action;Adventure;Casual;Indie;Early Access,0.00,1
+Gore;Action;Adventure;Casual;Indie;Simulation;Strategy,40.00,1
+Gore;Action;Adventure;Indie,42.65,13
+Gore;Action;Adventure;Indie;Early Access,50.00,1
+Gore;Action;Adventure;Indie;RPG,32.56,1
+Gore;Action;Adventure;Indie;RPG;Simulation;Early Access,50.00,1
+Gore;Action;Adventure;RPG;Early Access,57.14,1
+Gore;Action;Adventure;Simulation;Strategy,42.68,1
+Gore;Action;Adventure;Strategy,16.00,1
+Gore;Action;Casual;Indie,36.24,4
+Gore;Action;Casual;Indie;Strategy,33.33,1
+Gore;Action;Early Access,80.00,1
+Gore;Action;Free to Play;Indie,33.03,1
+Gore;Action;Indie,28.08,6
+Gore;Action;Indie;RPG,36.27,2
+Gore;Action;Indie;RPG;Early Access,61.11,1
+Gore;Action;Indie;Racing;Early Access,64.29,1
+Gore;Action;Indie;Strategy,34.31,2
+Gore;Adventure,25.19,2
+Gore;Adventure;Casual;Free to Play;Indie,48.14,1
+Gore;Adventure;Casual;Indie,34.06,4
+Gore;Adventure;Casual;Indie;Simulation,0.00,1
+Gore;Adventure;Indie,36.56,11
+Gore;Adventure;Indie;Early Access,20.00,1
+Gore;Adventure;Indie;RPG,7.77,2
+Gore;Adventure;Indie;Racing,66.67,1
+Gore;Adventure;Indie;Simulation,50.00,1
+Gore;Adventure;Simulation,11.54,1
+Gore;Casual;Indie;Simulation,11.90,2
+Gore;Casual;Indie;Simulation;Strategy,16.67,1
+Gore;Casual;Indie;Strategy,30.00,1
+Gore;Indie,39.56,3
+Gore;Indie;Early Access,64.81,1
+Gore;Indie;Simulation,9.78,1
+Gore;Indie;Simulation;Strategy,12.79,1
+Gore;Simulation;Strategy,16.13,1
+Indie,24.52,759
+Indie;Animation & Modeling,37.50,1
+Indie;Audio Production,3.90,1
+Indie;Audio Production;Utilities,66.67,1
+Indie;Casual,28.54,23
+Indie;Casual;Sports,62.50,1
+Indie;Early Access,25.14,56
+Indie;Massively Multiplayer,14.84,2
+Indie;Massively Multiplayer;RPG,34.41,7
+Indie;Massively Multiplayer;RPG;Early Access,33.40,5
+Indie;Massively Multiplayer;RPG;Simulation,23.87,1
+Indie;Massively Multiplayer;RPG;Simulation;Early Access,14.29,1
+Indie;Massively Multiplayer;RPG;Simulation;Strategy,40.40,1
+Indie;Massively Multiplayer;RPG;Simulation;Strategy;Early Access,0.00,1
+Indie;Massively Multiplayer;RPG;Strategy,22.13,4
+Indie;Massively Multiplayer;RPG;Strategy;Early Access,50.00,1
+Indie;Massively Multiplayer;Racing;Simulation,27.59,1
+Indie;Massively Multiplayer;Racing;Simulation;Early Access,43.69,1
+Indie;Massively Multiplayer;Racing;Simulation;Sports,52.83,1
+Indie;Massively Multiplayer;Simulation,23.95,2
+Indie;Massively Multiplayer;Simulation;Early Access,31.95,2
+Indie;Massively Multiplayer;Simulation;Sports;Early Access,80.00,1
+Indie;Massively Multiplayer;Simulation;Strategy,30.00,1
+Indie;Massively Multiplayer;Simulation;Strategy;Early Access,24.04,2
+Indie;Massively Multiplayer;Strategy,33.54,5
+Indie;Massively Multiplayer;Strategy;Early Access,33.11,3
+Indie;RPG,21.66,212
+Indie;RPG;Early Access,23.31,18
+Indie;RPG;Simulation,33.57,25
+Indie;RPG;Simulation;Early Access,16.75,9
+Indie;RPG;Simulation;Sports;Strategy,34.33,1
+Indie;RPG;Simulation;Sports;Strategy;Early Access,44.64,1
+Indie;RPG;Simulation;Strategy,30.07,38
+Indie;RPG;Simulation;Strategy;Early Access,37.34,12
+Indie;RPG;Sports;Strategy,28.57,1
+Indie;RPG;Strategy,23.81,139
+Indie;RPG;Strategy;Early Access,33.27,28
+Indie;Racing,39.13,40
+Indie;Racing;Early Access,22.42,9
+Indie;Racing;RPG;Simulation,36.78,1
+Indie;Racing;RPG;Sports,8.31,1
+Indie;Racing;Simulation,24.44,11
+Indie;Racing;Simulation;Early Access,16.90,7
+Indie;Racing;Simulation;Sports,40.05,21
+Indie;Racing;Simulation;Sports;Early Access,34.99,4
+Indie;Racing;Simulation;Strategy,12.82,1
+Indie;Racing;Sports,39.04,14
+Indie;Racing;Sports;Early Access,26.46,4
+Indie;Racing;Sports;Strategy;Early Access,15.38,1
+Indie;Racing;Strategy,37.50,1
+Indie;Simulation,29.39,218
+Indie;Simulation;Animation & Modeling;Video Production;Early Access,36.36,1
+Indie;Simulation;Audio Production;Early Access,10.70,2
+Indie;Simulation;Early Access,33.59,56
+Indie;Simulation;Education;Early Access,23.08,1
+Indie;Simulation;Sports,31.41,41
+Indie;Simulation;Sports;Early Access,22.99,6
+Indie;Simulation;Sports;Strategy,35.60,30
+Indie;Simulation;Sports;Strategy;Early Access,41.05,7
+Indie;Simulation;Strategy,32.95,231
+Indie;Simulation;Strategy;Early Access,26.79,81
+Indie;Simulation;Web Publishing,38.60,1
+Indie;Sports,31.24,30
+Indie;Sports;Early Access,23.78,4
+Indie;Sports;Strategy,20.55,6
+Indie;Sports;Strategy;Early Access,21.43,1
+Indie;Strategy,28.95,364
+Indie;Strategy;Early Access,27.97,60
+Massively Multiplayer;Early Access,35.42,1
+Massively Multiplayer;RPG,21.70,2
+Massively Multiplayer;RPG;Early Access,44.76,2
+Massively Multiplayer;RPG;Strategy,56.14,1
+Massively Multiplayer;RPG;Utilities;Early Access,14.29,1
+Massively Multiplayer;Racing,37.28,1
+Massively Multiplayer;Racing;Simulation;Sports,36.89,4
+Massively Multiplayer;Racing;Strategy,42.37,1
+Massively Multiplayer;Simulation;Early Access,5.45,1
+Massively Multiplayer;Simulation;Sports;Early Access,29.09,1
+Massively Multiplayer;Strategy,33.33,1
+Nudity;Action,15.71,1
+Nudity;Action;Adventure,37.17,2
+Nudity;Action;Adventure;Casual;Indie;Simulation;Early Access,52.54,1
+Nudity;Action;Adventure;Free to Play;Massively Multiplayer;RPG,55.93,1
+Nudity;Action;Adventure;Indie,24.75,1
+Nudity;Action;Casual,10.00,1
+Nudity;Action;Casual;Indie,19.92,2
+Nudity;Action;Indie,36.71,1
+Nudity;Action;Indie;Early Access,65.38,1
+Nudity;Adventure,27.67,5
+Nudity;Adventure;Casual,33.33,1
+Nudity;Adventure;Casual;Free to Play;Indie,42.86,1
+Nudity;Adventure;Casual;Indie,41.78,5
+Nudity;Adventure;Casual;Indie;Early Access,100.00,1
+Nudity;Adventure;Casual;Indie;RPG,33.33,1
+Nudity;Adventure;Casual;Indie;RPG;Early Access,66.67,1
+Nudity;Adventure;Casual;Indie;RPG;Simulation,39.23,1
+Nudity;Adventure;Indie;Early Access,61.54,1
+Nudity;Adventure;RPG;Strategy;Early Access,20.00,1
+Nudity;Casual,15.00,1
+Nudity;Casual;Free to Play,21.90,1
+Nudity;Casual;Indie,37.40,4
+Nudity;Casual;Indie;Simulation,51.35,1
+Nudity;Casual;Indie;Sports,75.00,1
+Nudity;Casual;Indie;Strategy,37.09,2
+Nudity;Casual;Simulation,35.71,1
+Nudity;Free to Play;Indie;Simulation,13.33,1
+Nudity;Free to Play;Simulation,25.58,1
+Nudity;Gore;Action;Adventure;Indie,21.43,2
+Nudity;Gore;Action;Indie,50.00,1
+Nudity;Gore;Adventure;Casual;Indie,22.95,2
+Nudity;Indie,22.26,2
+Nudity;Indie;RPG,11.81,2
+Nudity;RPG,19.66,2
+Nudity;Simulation,9.09,1
+Nudity;Violent;Action;Adventure;Casual;Indie;Simulation,11.76,1
+Nudity;Violent;Action;Adventure;Indie,45.59,2
+Nudity;Violent;Action;Adventure;Indie;Racing;Simulation;Early Access,51.52,1
+Nudity;Violent;Action;Adventure;RPG,19.26,2
+Nudity;Violent;Action;Indie;Early Access,36.84,1
+Nudity;Violent;Action;Indie;RPG,25.00,1
+Nudity;Violent;Action;RPG;Strategy,27.32,1
+Nudity;Violent;Adventure,20.00,1
+Nudity;Violent;Adventure;Casual,6.53,2
+Nudity;Violent;Adventure;Casual;Indie;Simulation,36.36,1
+Nudity;Violent;Adventure;Indie,23.60,3
+Nudity;Violent;Adventure;Indie;RPG,18.03,3
+Nudity;Violent;Casual;Indie;Simulation,40.00,1
+Nudity;Violent;Free to Play;Indie;RPG;Simulation;Strategy,11.39,1
+Nudity;Violent;Gore;Action,41.05,3
+Nudity;Violent;Gore;Action;Adventure,32.60,3
+Nudity;Violent;Gore;Action;Adventure;Casual;Indie;RPG;Simulation;Strategy,66.67,1
+Nudity;Violent;Gore;Action;Adventure;Indie,44.50,5
+Nudity;Violent;Gore;Action;Adventure;Indie;Early Access,43.48,1
+Nudity;Violent;Gore;Action;Adventure;Indie;Massively Multiplayer;Racing;RPG;Simulation;Early Access,50.39,1
+Nudity;Violent;Gore;Action;Adventure;Indie;RPG,17.72,2
+Nudity;Violent;Gore;Action;Adventure;Indie;RPG;Simulation,63.64,1
+Nudity;Violent;Gore;Action;Adventure;Indie;RPG;Simulation;Strategy;Early Access,37.20,2
+Nudity;Violent;Gore;Action;Casual,16.07,2
+Nudity;Violent;Gore;Action;Casual;Indie,48.57,1
+Nudity;Violent;Gore;Action;Indie,46.44,2
+Nudity;Violent;Gore;Action;Indie;Early Access,33.33,1
+Nudity;Violent;Gore;Action;Indie;Simulation,46.05,2
+Nudity;Violent;Gore;Action;RPG,42.59,1
+Nudity;Violent;Gore;Adventure;Casual;Simulation,33.33,1
+Nudity;Violent;Gore;Adventure;Indie,19.84,1
+Nudity;Violent;Gore;Adventure;Indie;RPG;Early Access,60.87,1
+Nudity;Violent;Gore;Casual;Indie,33.33,1
+Nudity;Violent;Gore;Indie;Early Access,50.00,1
+Nudity;Violent;Indie,23.81,1
+Nudity;Violent;Indie;Massively Multiplayer;Early Access,62.10,1
+Nudity;Violent;RPG,40.18,1
+Nudity;Violent;Strategy,64.00,1
+Photo Editing;Utilities;Video Production,43.33,1
+RPG,23.78,270
+RPG;Casual;Adventure,19.72,1
+RPG;Early Access,26.75,12
+RPG;Indie,12.87,6
+RPG;Indie;Casual,36.21,1
+RPG;Simulation,41.48,10
+RPG;Simulation;Sports,33.33,1
+RPG;Simulation;Strategy,29.66,14
+RPG;Simulation;Strategy;Early Access,61.99,2
+RPG;Sports;Strategy,9.09,1
+RPG;Strategy,26.74,87
+RPG;Strategy;Early Access,30.82,2
+Racing,34.06,86
+Racing;Early Access,33.22,6
+Racing;RPG;Simulation;Early Access,43.22,1
+Racing;Simulation,40.28,14
+Racing;Simulation;Early Access,21.65,5
+Racing;Simulation;Sports,30.94,58
+Racing;Simulation;Sports;Early Access,41.92,4
+Racing;Simulation;Sports;Strategy,14.55,2
+Racing;Simulation;Strategy;Early Access,43.75,1
+Racing;Sports,30.20,19
+Racing;Sports;Early Access,50.00,1
+Sexual Content;Action,42.67,2
+Sexual Content;Action;Adventure;Casual;Indie;RPG;Early Access,0.00,1
+Sexual Content;Action;Adventure;Indie;RPG,69.23,1
+Sexual Content;Action;Adventure;Indie;Racing;Simulation;Sports,38.46,1
+Sexual Content;Action;Casual;Indie,19.62,2
+Sexual Content;Action;Casual;Indie;Simulation;Strategy;Early Access,33.33,1
+Sexual Content;Action;Indie,83.33,1
+Sexual Content;Action;Strategy,66.67,1
+Sexual Content;Adventure,100.00,1
+Sexual Content;Adventure;Casual,6.98,3
+Sexual Content;Adventure;Casual;Indie,16.75,5
+Sexual Content;Adventure;Free to Play;Indie,35.21,1
+Sexual Content;Adventure;Free to Play;Indie;Simulation,53.33,1
+Sexual Content;Adventure;Indie,57.14,1
+Sexual Content;Adventure;Indie;RPG,0.00,1
+Sexual Content;Adventure;Indie;Simulation,28.57,1
+Sexual Content;Adventure;RPG;Strategy,9.90,1
+Sexual Content;Adventure;Simulation,37.04,1
+Sexual Content;Casual,18.23,2
+Sexual Content;Casual;Free to Play;Indie,25.33,1
+Sexual Content;Casual;Indie,27.46,8
+Sexual Content;Casual;Indie;Simulation,8.90,3
+Sexual Content;Casual;Indie;Simulation;Sports,86.67,1
+Sexual Content;Free to Play;Indie,20.00,1
+Sexual Content;Free to Play;Indie;RPG,16.92,1
+Sexual Content;Free to Play;Indie;Simulation,23.70,2
+Sexual Content;Gore;Adventure;Indie,88.00,1
+Sexual Content;Gore;RPG;Simulation;Strategy,0.00,1
+Sexual Content;Indie,23.02,2
+Sexual Content;Indie;RPG,27.59,1
+Sexual Content;Indie;Simulation,42.86,1
+Sexual Content;Nudity,50.00,1
+Sexual Content;Nudity;Action,12.22,1
+Sexual Content;Nudity;Action;Adventure;Indie,21.43,1
+Sexual Content;Nudity;Action;Adventure;Indie;RPG,26.04,2
+Sexual Content;Nudity;Action;Adventure;RPG,18.18,1
+Sexual Content;Nudity;Action;Casual;Free to Play;Indie;Simulation,14.27,1
+Sexual Content;Nudity;Action;Casual;Indie,31.52,3
+Sexual Content;Nudity;Action;Casual;Indie;RPG;Simulation;Strategy,60.40,1
+Sexual Content;Nudity;Action;Casual;Indie;Simulation,19.20,3
+Sexual Content;Nudity;Action;Indie,40.00,1
+Sexual Content;Nudity;Action;Indie;RPG,0.00,1
+Sexual Content;Nudity;Adventure,19.94,3
+Sexual Content;Nudity;Adventure;Casual,11.93,10
+Sexual Content;Nudity;Adventure;Casual;Indie,18.23,6
+Sexual Content;Nudity;Adventure;Casual;Indie;RPG,25.79,2
+Sexual Content;Nudity;Adventure;Casual;Indie;RPG;Simulation,46.67,1
+Sexual Content;Nudity;Adventure;Casual;Indie;RPG;Strategy,29.41,1
+Sexual Content;Nudity;Adventure;Casual;Indie;Simulation,49.40,4
+Sexual Content;Nudity;Adventure;Casual;Simulation,21.63,2
+Sexual Content;Nudity;Adventure;Free to Play;Indie;RPG,11.11,1
+Sexual Content;Nudity;Adventure;Indie,20.62,5
+Sexual Content;Nudity;Adventure;Indie;RPG,7.79,1
+Sexual Content;Nudity;Adventure;Indie;Simulation;Strategy,30.85,1
+Sexual Content;Nudity;Adventure;RPG,28.75,2
+Sexual Content;Nudity;Adventure;Simulation,20.19,3
+Sexual Content;Nudity;Casual,29.76,3
+Sexual Content;Nudity;Casual;Free to Play;Indie,26.07,3
+Sexual Content;Nudity;Casual;Free to Play;Indie;RPG,26.79,1
+Sexual Content;Nudity;Casual;Indie,18.25,24
+Sexual Content;Nudity;Casual;Indie;RPG,25.24,4
+Sexual Content;Nudity;Casual;Indie;Simulation,38.62,8
+Sexual Content;Nudity;Casual;Indie;Simulation;Strategy,0.00,1
+Sexual Content;Nudity;Casual;Indie;Strategy,19.23,1
+Sexual Content;Nudity;Casual;Simulation,40.63,1
+Sexual Content;Nudity;Gore;Action;Adventure;Casual;Indie;RPG;Simulation,52.78,1
+Sexual Content;Nudity;Gore;Casual;Indie,28.75,1
+Sexual Content;Nudity;Indie,25.16,3
+Sexual Content;Nudity;Indie;RPG;Simulation,0.00,1
+Sexual Content;Nudity;Indie;RPG;Simulation;Strategy,14.82,1
+Sexual Content;Nudity;Indie;Simulation,25.63,1
+Sexual Content;Nudity;Indie;Strategy,14.81,1
+Sexual Content;Nudity;RPG,19.51,1
+Sexual Content;Nudity;Violent;Action;Adventure;Indie,50.50,2
+Sexual Content;Nudity;Violent;Action;Casual,2.90,1
+Sexual Content;Nudity;Violent;Action;Casual;Indie,12.82,1
+Sexual Content;Nudity;Violent;Action;Indie,45.00,2
+Sexual Content;Nudity;Violent;Adventure;Casual,30.30,1
+Sexual Content;Nudity;Violent;Adventure;Casual;Indie,41.67,1
+Sexual Content;Nudity;Violent;Adventure;Casual;Indie;Simulation,32.52,2
+Sexual Content;Nudity;Violent;Adventure;Indie;RPG,40.24,1
+Sexual Content;Nudity;Violent;Casual;Indie,30.00,1
+Sexual Content;Nudity;Violent;Casual;Indie;RPG,33.33,1
+Sexual Content;Nudity;Violent;Gore;Action,21.70,1
+Sexual Content;Nudity;Violent;Gore;Action;Adventure,50.53,1
+Sexual Content;Nudity;Violent;Gore;Action;Adventure;Casual;Indie;RPG,17.24,1
+Sexual Content;Nudity;Violent;Gore;Action;Adventure;Casual;Indie;Simulation;Strategy,35.36,1
+Sexual Content;Nudity;Violent;Gore;Action;Adventure;Indie,8.65,2
+Sexual Content;Nudity;Violent;Gore;Action;Adventure;Indie;Early Access,73.21,2
+Sexual Content;Nudity;Violent;Gore;Action;Adventure;Indie;RPG,15.00,2
+Sexual Content;Nudity;Violent;Gore;Action;Adventure;Indie;RPG;Early Access,16.20,1
+Sexual Content;Nudity;Violent;Gore;Action;Casual,28.57,1
+Sexual Content;Nudity;Violent;Gore;Action;Indie,37.51,2
+Sexual Content;Nudity;Violent;Gore;Adventure;Casual,3.08,1
+Sexual Content;Nudity;Violent;Gore;Adventure;Free to Play;Indie;RPG,20.42,1
+Sexual Content;Nudity;Violent;Gore;Adventure;Indie,4.76,1
+Sexual Content;Nudity;Violent;Gore;Adventure;Indie;RPG,57.14,1
+Sexual Content;Nudity;Violent;Gore;Adventure;Indie;Simulation;Strategy,0.00,1
+Sexual Content;Nudity;Violent;Gore;Free to Play;RPG,40.38,1
+Sexual Content;Nudity;Violent;Gore;Indie;Simulation,16.72,1
+Sexual Content;Nudity;Violent;Gore;RPG,19.06,2
+Sexual Content;Nudity;Violent;Gore;RPG;Early Access,42.86,1
+Sexual Content;Nudity;Violent;Indie;Simulation,37.50,1
+Sexual Content;Nudity;Violent;Indie;Simulation;Strategy,18.69,1
+Sexual Content;Nudity;Violent;RPG;Strategy,19.86,1
+Sexual Content;RPG,63.55,2
+Sexual Content;Simulation,14.74,1
+Sexual Content;Strategy,24.52,1
+Sexual Content;Violent;Action,37.79,3
+Sexual Content;Violent;Action;Adventure;Indie,50.00,1
+Sexual Content;Violent;Action;Casual;Indie,10.59,1
+Sexual Content;Violent;Action;Indie;Early Access,50.00,1
+Sexual Content;Violent;Action;Indie;Massively Multiplayer;Racing;RPG;Simulation,40.74,1
+Sexual Content;Violent;Action;Indie;Simulation,0.00,1
+Sexual Content;Violent;Adventure;Casual,66.67,1
+Sexual Content;Violent;Adventure;Casual;Indie;RPG;Simulation,12.00,1
+Sexual Content;Violent;Adventure;Free to Play;Indie,26.09,1
+Sexual Content;Violent;Adventure;Indie,12.97,1
+Sexual Content;Violent;Adventure;Indie;Simulation,27.05,2
+Sexual Content;Violent;Adventure;Indie;Strategy,17.10,1
+Sexual Content;Violent;Casual;Free to Play;Indie,18.43,1
+Sexual Content;Violent;Casual;Indie,0.00,1
+Sexual Content;Violent;Free to Play,10.42,1
+Sexual Content;Violent;Gore;Action;Adventure;Casual;Indie;RPG;Strategy,25.00,1
+Sexual Content;Violent;Gore;Action;Casual;Free to Play;Indie,34.00,1
+Sexual Content;Violent;Gore;Action;Casual;Free to Play;Indie;Strategy,13.31,1
+Sexual Content;Violent;Gore;Adventure;Casual;Indie,100.00,1
+Sexual Content;Violent;Gore;Adventure;Free to Play;Indie,11.65,1
+Sexual Content;Violent;Gore;Adventure;Indie,23.58,4
+Sexual Content;Violent;Gore;Adventure;Indie;Early Access,25.45,1
+Sexual Content;Violent;Gore;Adventure;Indie;RPG;Early Access,0.00,1
+Sexual Content;Violent;Gore;Adventure;Indie;Simulation,14.29,1
+Sexual Content;Violent;Gore;Casual,28.79,1
+Sexual Content;Violent;Gore;Indie,62.50,1
+Sexual Content;Violent;Gore;Simulation,33.33,1
+Sexual Content;Violent;Indie,12.77,2
+Sexual Content;Violent;RPG,100.00,1
+Simulation,39.45,328
+Simulation;Early Access,27.18,34
+Simulation;Education,14.29,1
+Simulation;Education;Software Training,8.33,1
+Simulation;Sports,39.31,57
+Simulation;Sports;Early Access,32.41,7
+Simulation;Sports;Strategy,48.48,13
+Simulation;Sports;Strategy;Early Access,40.00,1
+Simulation;Strategy,31.55,175
+Simulation;Strategy;Early Access,36.15,13
+Simulation;Utilities,8.00,1
+Software Training;Utilities,3.50,1
+Sports,41.79,63
+Sports;Casual,15.28,1
+Sports;Early Access,29.73,11
+Sports;Strategy,42.00,7
+Sports;Strategy;Early Access,53.85,1
+Strategy,29.55,485
+Strategy;Action;Indie,33.33,1
+Strategy;Casual,31.00,8
+Strategy;Early Access,34.51,21
+Strategy;Indie,36.32,3
+Strategy;Indie;Casual,30.58,2
+Strategy;Indie;Casual;Simulation,50.91,1
+Strategy;RPG,44.67,1
+Strategy;RPG;Indie,9.45,7
+Strategy;Simulation,14.20,3
+Utilities,30.79,44
+Utilities;Early Access,45.50,6
+Utilities;Game Development;Early Access,5.00,1
+Utilities;Video Production,45.37,5
+Utilities;Video Production;Early Access,37.31,2
+Utilities;Video Production;Web Publishing;Early Access,6.61,1
+Utilities;Web Publishing,18.97,1
+Video Production,32.71,5
+Violent,16.67,2
+Violent;Action,35.91,19
+Violent;Action;Adventure,45.88,13
+Violent;Action;Adventure;Casual;Free to Play;Indie;Early Access,38.46,1
+Violent;Action;Adventure;Casual;Indie,34.52,1
+Violent;Action;Adventure;Casual;Indie;Early Access,0.00,1
+Violent;Action;Adventure;Casual;Indie;RPG,52.38,1
+Violent;Action;Adventure;Casual;Indie;RPG;Early Access,21.05,1
+Violent;Action;Adventure;Casual;Indie;RPG;Simulation;Early Access,66.39,1
+Violent;Action;Adventure;Casual;Indie;RPG;Simulation;Strategy,44.44,1
+Violent;Action;Adventure;Casual;Indie;RPG;Strategy,55.56,1
+Violent;Action;Adventure;Casual;Indie;Racing;RPG;Simulation;Strategy,33.33,1
+Violent;Action;Adventure;Casual;Indie;Simulation,2.56,1
+Violent;Action;Adventure;Casual;RPG;Early Access,100.00,1
+Violent;Action;Adventure;Casual;Simulation;Strategy,40.00,1
+Violent;Action;Adventure;Early Access,87.50,2
+Violent;Action;Adventure;Free to Play;Massively Multiplayer,50.64,1
+Violent;Action;Adventure;Free to Play;RPG;Simulation,17.28,1
+Violent;Action;Adventure;Indie,37.69,24
+Violent;Action;Adventure;Indie;Early Access,4.85,1
+Violent;Action;Adventure;Indie;Massively Multiplayer;RPG,32.73,1
+Violent;Action;Adventure;Indie;Massively Multiplayer;RPG;Simulation;Strategy,80.00,1
+Violent;Action;Adventure;Indie;Massively Multiplayer;Racing;RPG;Simulation;Sports;Strategy,75.00,1
+Violent;Action;Adventure;Indie;RPG,32.31,3
+Violent;Action;Adventure;Indie;RPG;Early Access,60.00,1
+Violent;Action;Adventure;Indie;RPG;Simulation,28.57,1
+Violent;Action;Adventure;Indie;RPG;Simulation;Sports,72.50,1
+Violent;Action;Adventure;Indie;Simulation,18.67,2
+Violent;Action;Adventure;Indie;Simulation;Early Access,69.23,1
+Violent;Action;Adventure;Indie;Simulation;Strategy,61.25,2
+Violent;Action;Adventure;Indie;Simulation;Strategy;Early Access,66.67,1
+Violent;Action;Adventure;Indie;Strategy,60.83,2
+Violent;Action;Adventure;Indie;Strategy;Early Access,50.00,1
+Violent;Action;Adventure;RPG,39.97,3
+Violent;Action;Adventure;RPG;Early Access,41.67,1
+Violent;Action;Adventure;RPG;Strategy;Early Access,52.38,1
+Violent;Action;Adventure;Simulation,60.00,1
+Violent;Action;Adventure;Strategy,34.55,2
+Violent;Action;Adventure;Strategy;Early Access,33.33,1
+Violent;Action;Casual,64.42,8
+Violent;Action;Casual;Early Access,50.00,1
+Violent;Action;Casual;Free to Play;Indie,27.03,1
+Violent;Action;Casual;Free to Play;Indie;Strategy,38.48,1
+Violent;Action;Casual;Indie,48.24,11
+Violent;Action;Casual;Indie;Early Access,38.59,6
+Violent;Action;Casual;Indie;Massively Multiplayer;Racing,44.58,1
+Violent;Action;Casual;Indie;Simulation,75.38,8
+Violent;Action;Casual;Indie;Simulation;Early Access,44.44,1
+Violent;Action;Casual;Indie;Simulation;Strategy,25.93,1
+Violent;Action;Casual;Indie;Sports,38.89,2
+Violent;Action;Casual;Indie;Strategy,29.17,2
+Violent;Action;Casual;Indie;Strategy;Early Access,41.57,2
+Violent;Action;Casual;Racing,100.00,1
+Violent;Action;Casual;Simulation,69.44,2
+Violent;Action;Early Access,32.66,3
+Violent;Action;Free to Play;Indie,72.41,1
+Violent;Action;Free to Play;Indie;Massively Multiplayer,58.82,1
+Violent;Action;Free to Play;Massively Multiplayer;Strategy,39.12,1
+Violent;Action;Indie,30.91,39
+Violent;Action;Indie;Early Access,35.97,13
+Violent;Action;Indie;Massively Multiplayer,25.00,1
+Violent;Action;Indie;Massively Multiplayer;RPG;Strategy;Early Access,62.92,1
+Violent;Action;Indie;RPG,100.00,1
+Violent;Action;Indie;RPG;Simulation;Strategy,48.31,1
+Violent;Action;Indie;RPG;Strategy,66.67,2
+Violent;Action;Indie;Racing,40.00,1
+Violent;Action;Indie;Simulation,48.99,7
+Violent;Action;Indie;Simulation;Early Access,0.00,1
+Violent;Action;Indie;Simulation;Strategy;Early Access,33.33,1
+Violent;Action;Indie;Sports;Early Access,6.67,2
+Violent;Action;Indie;Strategy,31.14,2
+Violent;Action;Indie;Strategy;Early Access,50.00,1
+Violent;Action;Massively Multiplayer,28.51,1
+Violent;Action;Massively Multiplayer;Simulation;Sports,43.10,1
+Violent;Action;RPG,56.38,2
+Violent;Action;Racing,41.75,2
+Violent;Action;Simulation,54.75,3
+Violent;Action;Simulation;Early Access,27.45,1
+Violent;Action;Simulation;Sports,92.31,1
+Violent;Action;Simulation;Strategy,20.00,1
+Violent;Action;Sports,47.37,1
+Violent;Action;Strategy,25.12,7
+Violent;Action;Strategy;Early Access,33.33,1
+Violent;Adventure,25.57,9
+Violent;Adventure;Casual,13.07,5
+Violent;Adventure;Casual;Free to Play;Indie,43.45,1
+Violent;Adventure;Casual;Free to Play;Indie;Simulation,27.17,1
+Violent;Adventure;Casual;Indie,26.95,5
+Violent;Adventure;Casual;Indie;RPG;Simulation,3.13,2
+Violent;Adventure;Casual;Indie;RPG;Simulation;Strategy,30.77,1
+Violent;Adventure;Casual;Indie;Simulation,10.53,1
+Violent;Adventure;Casual;Indie;Strategy;Early Access,55.00,1
+Violent;Adventure;Casual;Simulation,26.14,2
+Violent;Adventure;Free to Play;Indie,46.81,1
+Violent;Adventure;Free to Play;Indie;RPG;Early Access,30.00,1
+Violent;Adventure;Free to Play;Massively Multiplayer;RPG;Strategy,44.51,1
+Violent;Adventure;Indie,27.51,15
+Violent;Adventure;Indie;Early Access,33.33,1
+Violent;Adventure;Indie;RPG,14.29,1
+Violent;Adventure;Indie;RPG;Simulation,2.77,1
+Violent;Adventure;Indie;RPG;Strategy,44.70,2
+Violent;Adventure;Indie;Simulation,25.67,1
+Violent;Adventure;Indie;Simulation;Strategy;Early Access,69.23,1
+Violent;Adventure;Indie;Strategy,26.92,1
+Violent;Adventure;RPG,25.93,1
+Violent;Casual;Indie,22.22,1
+Violent;Casual;Indie;Strategy,16.67,2
+Violent;Casual;RPG;Simulation;Strategy,33.33,1
+Violent;Free to Play;Indie;Strategy,16.04,1
+Violent;Free to Play;Indie;Strategy;Early Access,19.40,1
+Violent;Gore,46.67,2
+Violent;Gore;Action,42.09,21
+Violent;Gore;Action;Adventure,48.75,11
+Violent;Gore;Action;Adventure;Casual,57.14,2
+Violent;Gore;Action;Adventure;Casual;Early Access,14.29,1
+Violent;Gore;Action;Adventure;Casual;Indie,53.05,11
+Violent;Gore;Action;Adventure;Casual;Indie;Massively Multiplayer;RPG;Early Access,41.67,1
+Violent;Gore;Action;Adventure;Casual;Indie;Massively Multiplayer;RPG;Strategy;Early Access,61.48,1
+Violent;Gore;Action;Adventure;Casual;Indie;RPG,63.21,1
+Violent;Gore;Action;Adventure;Casual;Indie;RPG;Early Access,26.79,1
+Violent;Gore;Action;Adventure;Casual;Indie;RPG;Strategy,66.67,1
+Violent;Gore;Action;Adventure;Casual;Indie;Racing,35.90,1
+Violent;Gore;Action;Adventure;Casual;Indie;Racing;Simulation;Sports,34.78,1
+Violent;Gore;Action;Adventure;Casual;Indie;Racing;Sports,64.44,1
+Violent;Gore;Action;Adventure;Casual;Indie;Simulation,100.00,1
+Violent;Gore;Action;Adventure;Casual;Indie;Simulation;Strategy;Video Production,4.58,1
+Violent;Gore;Action;Adventure;Casual;Indie;Strategy,66.67,2
+Violent;Gore;Action;Adventure;Casual;RPG,33.90,1
+Violent;Gore;Action;Adventure;Casual;Sports,100.00,1
+Violent;Gore;Action;Adventure;Early Access,45.16,1
+Violent;Gore;Action;Adventure;Free to Play,35.71,1
+Violent;Gore;Action;Adventure;Free to Play;Indie,12.62,1
+Violent;Gore;Action;Adventure;Free to Play;Indie;RPG;Early Access,46.15,1
+Violent;Gore;Action;Adventure;Indie,40.02,45
+Violent;Gore;Action;Adventure;Indie;Early Access,41.23,9
+Violent;Gore;Action;Adventure;Indie;Massively Multiplayer,49.40,2
+Violent;Gore;Action;Adventure;Indie;Massively Multiplayer;RPG;Simulation;Early Access,53.48,1
+Violent;Gore;Action;Adventure;Indie;RPG,33.98,13
+Violent;Gore;Action;Adventure;Indie;RPG;Early Access,48.91,3
+Violent;Gore;Action;Adventure;Indie;RPG;Simulation;Strategy;Early Access,30.77,2
+Violent;Gore;Action;Adventure;Indie;RPG;Strategy,31.67,2
+Violent;Gore;Action;Adventure;Indie;Racing,75.00,1
+Violent;Gore;Action;Adventure;Indie;Racing;RPG;Simulation;Strategy,100.00,1
+Violent;Gore;Action;Adventure;Indie;Simulation,37.40,7
+Violent;Gore;Action;Adventure;Indie;Simulation;Early Access,33.67,3
+Violent;Gore;Action;Adventure;Indie;Simulation;Strategy,32.41,1
+Violent;Gore;Action;Adventure;Indie;Strategy,27.88,2
+Violent;Gore;Action;Adventure;Indie;Strategy;Early Access,72.22,1
+Violent;Gore;Action;Adventure;RPG,23.79,2
+Violent;Gore;Action;Adventure;RPG;Simulation,40.00,1
+Violent;Gore;Action;Adventure;RPG;Simulation;Strategy;Early Access,50.00,1
+Violent;Gore;Action;Adventure;Simulation,6.12,1
+Violent;Gore;Action;Adventure;Strategy,43.33,2
+Violent;Gore;Action;Adventure;Strategy;Early Access,16.67,1
+Violent;Gore;Action;Casual;Early Access,18.18,1
+Violent;Gore;Action;Casual;Free to Play;Indie;Strategy;Early Access,50.81,1
+Violent;Gore;Action;Casual;Indie,27.13,7
+Violent;Gore;Action;Casual;Indie;Early Access,40.80,6
+Violent;Gore;Action;Casual;Indie;Racing,19.51,1
+Violent;Gore;Action;Casual;Indie;Strategy;Early Access,26.67,1
+Violent;Gore;Action;Casual;Sports,14.38,1
+Violent;Gore;Action;Casual;Strategy,31.82,1
+Violent;Gore;Action;Free to Play,37.25,1
+Violent;Gore;Action;Free to Play;Indie,18.40,3
+Violent;Gore;Action;Free to Play;Indie;Early Access,57.14,1
+Violent;Gore;Action;Free to Play;Indie;Massively Multiplayer,44.30,2
+Violent;Gore;Action;Indie,30.83,57
+Violent;Gore;Action;Indie;Early Access,23.18,11
+Violent;Gore;Action;Indie;Massively Multiplayer,100.00,1
+Violent;Gore;Action;Indie;Massively Multiplayer;Early Access,75.00,1
+Violent;Gore;Action;Indie;Massively Multiplayer;RPG;Simulation;Strategy,47.66,1
+Violent;Gore;Action;Indie;RPG,29.06,2
+Violent;Gore;Action;Indie;RPG;Early Access,29.69,2
+Violent;Gore;Action;Indie;RPG;Simulation;Early Access,61.22,1
+Violent;Gore;Action;Indie;RPG;Simulation;Strategy,20.83,1
+Violent;Gore;Action;Indie;RPG;Strategy,12.80,2
+Violent;Gore;Action;Indie;RPG;Strategy;Early Access,35.19,1
+Violent;Gore;Action;Indie;Racing,16.10,3
+Violent;Gore;Action;Indie;Simulation,51.25,6
+Violent;Gore;Action;Indie;Simulation;Sports;Early Access,46.15,1
+Violent;Gore;Action;Indie;Simulation;Sports;Strategy,16.58,1
+Violent;Gore;Action;Indie;Sports;Strategy,35.48,1
+Violent;Gore;Action;Indie;Strategy,25.41,3
+Violent;Gore;Action;Massively Multiplayer;RPG;Simulation,78.57,1
+Violent;Gore;Action;Simulation;Sports,15.79,1
+Violent;Gore;Action;Simulation;Strategy,55.10,1
+Violent;Gore;Action;Strategy;Early Access,31.43,1
+Violent;Gore;Adventure,41.81,6
+Violent;Gore;Adventure;Casual;Free to Play;Indie,19.41,1
+Violent;Gore;Adventure;Casual;Indie,44.02,4
+Violent;Gore;Adventure;Casual;Indie;RPG,0.00,1
+Violent;Gore;Adventure;Casual;Indie;Strategy,23.31,1
+Violent;Gore;Adventure;Casual;RPG,0.00,1
+Violent;Gore;Adventure;Free to Play;Indie,9.29,2
+Violent;Gore;Adventure;Indie,31.50,18
+Violent;Gore;Adventure;Indie;Early Access,63.64,2
+Violent;Gore;Adventure;Indie;RPG,12.04,6
+Violent;Gore;Adventure;Indie;RPG;Early Access,40.00,1
+Violent;Gore;Adventure;Indie;Simulation,57.58,3
+Violent;Gore;Adventure;Indie;Simulation;Strategy,58.33,1
+Violent;Gore;Adventure;Indie;Strategy,100.00,1
+Violent;Gore;Adventure;Indie;Strategy;Early Access,6.25,1
+Violent;Gore;Adventure;RPG,21.41,2
+Violent;Gore;Casual,50.00,1
+Violent;Gore;Casual;Free to Play;Indie;Strategy,6.05,1
+Violent;Gore;Casual;Indie,31.83,2
+Violent;Gore;Casual;Indie;RPG;Simulation;Early Access,75.00,1
+Violent;Gore;Casual;Indie;Simulation;Sports,50.00,1
+Violent;Gore;Casual;Indie;Strategy,47.06,1
+Violent;Gore;Indie,31.82,16
+Violent;Gore;Indie;Early Access,49.21,2
+Violent;Gore;Indie;Massively Multiplayer;Early Access,36.13,1
+Violent;Gore;Indie;RPG,33.20,1
+Violent;Gore;Indie;Sports,33.33,1
+Violent;Gore;Indie;Strategy,21.05,1
+Violent;Gore;RPG;Early Access,33.33,1
+Violent;Gore;Simulation;Early Access,60.87,1
+Violent;Gore;Strategy,0.00,1
+Violent;Indie,48.50,8
+Violent;Indie;Early Access,27.78,2
+Violent;Indie;RPG,12.20,1
+Violent;Indie;Strategy;Early Access,25.00,1
+Violent;RPG,17.39,4
+Violent;RPG;Strategy,18.61,2
+Violent;Simulation,16.67,1
+Violent;Simulation;Early Access,50.00,1
+Violent;Simulation;Sports,40.38,1
+Violent;Sports,35.20,1
+Violent;Strategy,62.86,1
+Web Publishing,9.44,1

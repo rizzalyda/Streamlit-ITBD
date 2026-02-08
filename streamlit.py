@@ -80,7 +80,7 @@ def load_data():
     )
 
     try:
-        steam = pd.read_csv("steam.csv")[["appid", "release_date"]]
+        steam = pd.read_csv("data_output/hadoop_steam.csv")[["appid", "release_date"]]
         steam["release_date"] = pd.to_datetime(steam["release_date"], errors="coerce")
         steam["release_year"] = steam["release_date"].dt.year
         df = df.merge(steam[["appid", "release_year"]], on="appid", how="left")
