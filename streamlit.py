@@ -379,7 +379,10 @@ if page == "Dashboard":
     # Gradient biru untuk menunjukkan tingkat popularitas
     fig = px.bar(genre, x="Jumlah", y="Genre", orientation="h",
                  color="Jumlah", color_continuous_scale="Blues")
-    fig.update_layout(coloraxis_showscale=False)
+    fig.update_layout(
+        coloraxis_showscale=False,
+        yaxis={'categoryorder': 'total ascending'}  # Urutkan dari kecil ke besar (terbesar di atas)
+    )
     fig.update_traces(hovertemplate='<b>%{y}</b><br>Jumlah Game: %{x}<extra></extra>')
     st.plotly_chart(fig, use_container_width=True)
 
