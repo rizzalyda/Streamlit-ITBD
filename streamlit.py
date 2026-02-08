@@ -92,6 +92,54 @@ def load_data():
 
     return df
 
+@st.cache_data
+def process_uploaded_data(uploaded_file):
+    """Process uploaded dataset and return cleaned dataframe"""
+    try:
+        # Read uploaded file
+        df = pd.read_csv(uploaded_file, on_bad_lines="skip")
+        
+        # Basic data processing if standard columns are available
+        required_cols = ["appid", "name", "price", "positive_ratings", "negative_ratings"]
+        
+        if all(col in df.columns for col in required_cols):
+            df["price"] = pd.to_numeric(df["price"], errors="coerce").fillna(0)
+            df["positive_ratings"] = pd.to_numeric(df["positive_ratings"], errors="coerce").fillna(0)
+            df["negative_ratings"] = pd.to_numeric(df["negative_ratings"], errors="coerce").fillna(0)
+            df["total_ratings"] = df["positive_ratings"] + df["negative_ratings"]
+            df["owners_numeric"] = df["total_ratings"] * 10
+            
+            df["negative_ratio"] = np.where(
+                df["total_ratings"] > 0,
+                df["negative_ratings"] / df["total_ratings"] * 100,
+                0
+            )
+            
+            df["positive_ratio"] = np.where(
+                df["total_ratings"] > 0,
+                df["positive_ratings"] / df["total_ratings"] * 100,
+                0
+            )
+            
+            # Add default values if columns don't exist
+            if "genres" not in df.columns:
+                df["genres"] = "Unknown"
+            if "release_date" not in df.columns:
+                df["release_year"] = 2020
+            else:
+                df["release_date"] = pd.to_datetime(df["release_date"], errors="coerce")
+                df["release_year"] = df["release_date"].dt.year
+                df["release_year"] = df["release_year"].fillna(2020)
+            
+            df["game_type"] = df["price"].apply(lambda x: "Free" if x == 0 else "Paid")
+            df["primary_genre"] = df["genres"].str.split(";").str[0].fillna("Unknown")
+            
+        return df
+    except Exception as e:
+        st.error(f"Error processing uploaded file: {str(e)}")
+        return None
+
+# Load default data
 df = load_data()
 
 # =====================================================
@@ -158,32 +206,98 @@ if page == "Dashboard":
     tingkat kompetisi dalam industri game PC.
     """)
 
+    # Initialize variables for custom dataset
+    current_df = df
+    use_uploaded = False
+
+    # =====================================================
+    # UPLOAD DATASET SECTION
+    # =====================================================
+    st.markdown("### 📁 Upload Dataset")
+    st.markdown("""
+    Anda dapat mengupload dataset custom untuk analisis. Dataset harus dalam format CSV dengan struktur kolom berikut:
+    """)
+    
+    uploaded_file = st.file_uploader(
+        "Pilih file CSV", 
+        type=['csv'],
+        help="Upload dataset Steam games dalam format CSV sesuai struktur di atas"
+    )
+    
+    if uploaded_file is not None:
+        uploaded_df = process_uploaded_data(uploaded_file)
+        
+        if uploaded_df is not None:
+            col1, col2 = st.columns([3, 1])
+            
+            with col1:
+                st.success("Dataset berhasil diupload!")
+                st.markdown(f"**Informasi Dataset:**")
+                st.markdown(f"- Jumlah baris: {len(uploaded_df):,}")
+                st.markdown(f"- Jumlah kolom: {len(uploaded_df.columns)}")
+            
+            # Preview dataset
+            st.markdown("**Preview Dataset:**")
+            preview_tab1, preview_tab2 = st.tabs(["Sample Data", "Info Kolom"])
+            
+            with preview_tab1:
+                st.dataframe(uploaded_df.head(10), use_container_width=True)
+                
+            with preview_tab2:
+                col_info = pd.DataFrame({
+                    'Kolom': uploaded_df.columns,
+                    'Tipe Data': uploaded_df.dtypes.astype(str),
+                    'Non-Null': uploaded_df.count(),
+                    'Null Values': uploaded_df.isnull().sum()
+                }).reset_index(drop=True)
+                st.dataframe(col_info, use_container_width=True)
+                
+                st.info("Tidak ada kolom numerik untuk ditampilkan statistiknya.")
+            
+            if use_uploaded:
+                current_df = uploaded_df
+                st.info("🔄 Menggunakan dataset yang diupload untuk analisis berikutnya.")
+        else:
+            st.error("❌ Gagal memproses dataset. Pastikan format file sesuai.")
+    st.markdown("---")
+
     st.markdown("### Filter Data")
     c1, c2, c3 = st.columns(3)
 
     with c1:
-        year_filter = st.slider(
-            "Tahun Rilis",
-            int(df.release_year.min()),
-            int(df.release_year.max()),
-            (2015, int(df.release_year.max()))
-        )
+        try:
+            year_filter = st.slider(
+                "Tahun Rilis",
+                int(current_df.release_year.min()),
+                int(current_df.release_year.max()),
+                (2015, int(current_df.release_year.max()))
+            )
+        except:
+            year_filter = (2015, 2022)
+            st.warning("⚠️ Data tahun rilis tidak tersedia, menggunakan default.")
 
     with c2:
-        genre_filter = st.multiselect(
-            "Genre",
-            options=["All"] + sorted(df.primary_genre.unique()),
-            default=["All"]
-        )
+        try:
+            genre_filter = st.multiselect(
+                "Genre",
+                options=["All"] + sorted(current_df.primary_genre.unique()),
+                default=["All"]
+            )
+        except:
+            genre_filter = ["All"]
+            st.warning("⚠️ Data genre tidak tersedia.")
 
     with c3:
-        type_filter = st.selectbox(
-            "Tipe Game",
-            ["All", "Free", "Paid"]
-        )
+        try:
+            type_filter = st.selectbox(
+                "Tipe Game",
+                ["All", "Free", "Paid"]
+            )
+        except:
+            type_filter = "All"
         
     fdf = apply_filters(
-        df,
+        current_df,
         year_range=year_filter,
         genres=genre_filter,
         game_type=type_filter
